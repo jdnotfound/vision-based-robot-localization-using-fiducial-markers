@@ -14,7 +14,7 @@ except FileNotFoundError:
 
 MARKER_SIZE_METERS = 0.097
 
-apriltag_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_APRILTAG_36h11)
+apriltag_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_APRILTAG_16h5)
 detector_params = cv2.aruco.DetectorParameters()
 detector = cv2.aruco.ArucoDetector(apriltag_dict, detector_params)
 

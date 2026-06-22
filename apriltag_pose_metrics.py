@@ -27,7 +27,7 @@ except FileNotFoundError:
     raise RuntimeError("Please run camera calibration first and save calibration_data.npz")
 
 
-apriltag_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_APRILTAG_36h11)
+apriltag_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_APRILTAG_16h5)
 detector_params = cv2.aruco.DetectorParameters()
 detector = cv2.aruco.ArucoDetector(apriltag_dict, detector_params)
 
@@ -353,7 +353,7 @@ fps = 1000 / avg_total_time_ms if avg_total_time_ms and avg_total_time_ms > 0 el
 
 summary = {
     "test_name": TEST_NAME,
-    "marker_type": "apriltag_36h11",
+    "marker_type": "apriltag_16h5",
     "real_distance_m": REAL_DISTANCE_METERS,
     "marker_size_m": MARKER_SIZE_METERS,
     "expected_id": EXPECTED_ID,

@@ -34,7 +34,7 @@ data = pd.DataFrame(rows)
 data["marker_type"] = data["marker_type"].astype(str)
 
 data["marker_type"] = data["marker_type"].replace({
-    "apriltag_36h11": "AprilTag",
+    "apriltag_16h5": "AprilTag",
     "aruco": "ArUco",
     "stag": "STag"
 })
