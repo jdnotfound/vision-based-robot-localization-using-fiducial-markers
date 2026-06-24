@@ -35,8 +35,11 @@ data["marker_type"] = data["marker_type"].astype(str)
 
 data["marker_type"] = data["marker_type"].replace({
     "apriltag_16h5": "AprilTag",
+    "apriltag": "AprilTag",
     "aruco": "ArUco",
-    "stag": "STag"
+    "stag": "STag",
+    "chilitag": "Chilitags",
+    "chilitags": "Chilitags"
 })
 
 data["real_distance_m"] = pd.to_numeric(
@@ -60,10 +63,13 @@ print(data[[
 ]])
 
 
+MARKER_ORDER = ["ArUco", "AprilTag", "STag", "Chilitags"]
+
+
 def plot_metric(metric_column, y_label, title, output_name):
     plt.figure(figsize=(9, 6))
 
-    for marker in ["ArUco", "AprilTag", "STag"]:
+    for marker in MARKER_ORDER:
         marker_data = data[data["marker_type"] == marker]
 
         if marker_data.empty:
