@@ -1,0 +1,9 @@
+/home/jayendra/cv-project/external/JuMarker/build-isolated/CMakeFiles/edit_cache.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/CMakeFiles/rebuild_cache.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/src/CMakeFiles/jumarker.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/src/CMakeFiles/edit_cache.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/src/CMakeFiles/rebuild_cache.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/utils/CMakeFiles/create_marker.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/utils/CMakeFiles/jumarker_test.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/utils/CMakeFiles/edit_cache.dir
+/home/jayendra/cv-project/external/JuMarker/build-isolated/utils/CMakeFiles/rebuild_cache.dir

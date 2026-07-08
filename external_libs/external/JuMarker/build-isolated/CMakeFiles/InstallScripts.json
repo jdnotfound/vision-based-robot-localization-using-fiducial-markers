@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jayendra/cv-project/external/JuMarker/build-isolated/cmake_install.cmake",
+		"/home/jayendra/cv-project/external/JuMarker/build-isolated/src/cmake_install.cmake",
+		"/home/jayendra/cv-project/external/JuMarker/build-isolated/utils/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,50 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
+*.egg-info/
 
-# Virtual environment
-venv/
-.env/
-
-# External cloned repos
-stag-python/
-external/
-
-# Compiled C/C++ outputs
-*.so
-*.o
-*.a
-*.out
-chilitags_pose_live
-
-# Videos / recordings
-*.mp4
-*.avi
-*.mov
-recorded_videos/
-
-# LaTeX temporary files
-*.aux
-*.log
-*.toc
-*.out
-*.synctex.gz
-*.fdb_latexmk
-*.fls
-
-# OS/editor files
-.DS_Store
-Thumbs.db
+# Editor files
 .vscode/
 .idea/
+.DS_Store
 
-# Local backup/debug files
-calibration_chilitags_backup.yml
-calibration_data_backup.npz
-camera_test_index_0.jpg
-requirements_current_backup.txt
-
-# Raw JuMarker logs
-metrics_results/*_raw_log.txt
+# Logs
+*.log

@@ -1,0 +1,1027 @@
+Diff gray color: 181.667
+convexPolygon: Yes
+Symmetry: No
+Opening camera index 0
+[ WARN:0@0.168] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Internal data stream error.
+[ WARN:0@0.173] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline
+[ WARN:0@0.173] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 16.115 milliseconds nmarkers: 0 image resolution=[640 x 480]
+QSocketNotifier: Can only be used with threads started with QThread
+libEGL warning: failed to get driver name for fd -1
+
+libEGL warning: MESA-LOADER: failed to retrieve device information
+
+libEGL warning: failed to get driver name for fd -1
+
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.492 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.99067 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.9365 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4508 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.22333 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.44271 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.393 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.0109 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+POSE id:1 tx_m:0.000457893 ty_m:0.0237787 tz_m:0.502408 dist_m:0.502971 raw_tz_units:2702.69 model_height_units:516.429
+Frame:-1/-1 Time detection: 16.0754 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000154338 ty_m:0.0239581 tz_m:0.502 dist_m:0.502571 raw_tz_units:2700.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 16.5399 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000151047 ty_m:0.0239563 tz_m:0.501567 dist_m:0.502139 raw_tz_units:2698.16 model_height_units:516.429
+Frame:-1/-1 Time detection: 19.2393 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000167765 ty_m:0.0239437 tz_m:0.501186 dist_m:0.501758 raw_tz_units:2696.12 model_height_units:516.429
+Frame:-1/-1 Time detection: 19.4103 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000149373 ty_m:0.0239536 tz_m:0.501379 dist_m:0.501951 raw_tz_units:2697.16 model_height_units:516.429
+Frame:-1/-1 Time detection: 19.5491 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161604 ty_m:0.0239688 tz_m:0.501963 dist_m:0.502534 raw_tz_units:2700.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 21.2384 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000155014 ty_m:0.023948 tz_m:0.5013 dist_m:0.501871 raw_tz_units:2696.73 model_height_units:516.429
+Frame:-1/-1 Time detection: 21.5371 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000172324 ty_m:0.023956 tz_m:0.501462 dist_m:0.502034 raw_tz_units:2697.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 23.305 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161733 ty_m:0.0239457 tz_m:0.501388 dist_m:0.501959 raw_tz_units:2697.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 25.9998 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000168712 ty_m:0.0239788 tz_m:0.502163 dist_m:0.502735 raw_tz_units:2701.37 model_height_units:516.429
+Frame:-1/-1 Time detection: 27.4334 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000153281 ty_m:0.023957 tz_m:0.501671 dist_m:0.502242 raw_tz_units:2698.72 model_height_units:516.429
+Frame:-1/-1 Time detection: 27.7781 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000164042 ty_m:0.0239595 tz_m:0.501714 dist_m:0.502286 raw_tz_units:2698.96 model_height_units:516.429
+Frame:-1/-1 Time detection: 28.2985 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150308 ty_m:0.0239673 tz_m:0.501615 dist_m:0.502187 raw_tz_units:2698.42 model_height_units:516.429
+Frame:-1/-1 Time detection: 28.1255 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000156679 ty_m:0.0239506 tz_m:0.501828 dist_m:0.502399 raw_tz_units:2699.57 model_height_units:516.429
+Frame:-1/-1 Time detection: 29.0481 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000151907 ty_m:0.0239667 tz_m:0.501864 dist_m:0.502436 raw_tz_units:2699.76 model_height_units:516.429
+Frame:-1/-1 Time detection: 29.9018 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00015928 ty_m:0.0239681 tz_m:0.50162 dist_m:0.502193 raw_tz_units:2698.45 model_height_units:516.429
+Frame:-1/-1 Time detection: 29.4188 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000141133 ty_m:0.0239722 tz_m:0.502171 dist_m:0.502743 raw_tz_units:2701.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 29.2895 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000162636 ty_m:0.0239448 tz_m:0.501412 dist_m:0.501984 raw_tz_units:2697.33 model_height_units:516.429
+Frame:-1/-1 Time detection: 29.0612 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000154378 ty_m:0.0239572 tz_m:0.501816 dist_m:0.502388 raw_tz_units:2699.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 28.9799 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161805 ty_m:0.0239593 tz_m:0.501662 dist_m:0.502234 raw_tz_units:2698.68 model_height_units:516.429
+Frame:-1/-1 Time detection: 28.9528 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00016484 ty_m:0.0239678 tz_m:0.50194 dist_m:0.502512 raw_tz_units:2700.17 model_height_units:516.429
+Frame:-1/-1 Time detection: 30.2376 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000171062 ty_m:0.0239611 tz_m:0.50207 dist_m:0.502641 raw_tz_units:2700.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 30.4313 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000163472 ty_m:0.0239717 tz_m:0.502138 dist_m:0.50271 raw_tz_units:2701.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 31.0626 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000162673 ty_m:0.0239546 tz_m:0.502154 dist_m:0.502725 raw_tz_units:2701.32 model_height_units:516.429
+Frame:-1/-1 Time detection: 31.9194 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161464 ty_m:0.0239496 tz_m:0.501586 dist_m:0.502157 raw_tz_units:2698.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 33.7964 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000169677 ty_m:0.0239452 tz_m:0.5016 dist_m:0.502171 raw_tz_units:2698.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 34.9695 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000164977 ty_m:0.0239455 tz_m:0.501617 dist_m:0.502188 raw_tz_units:2698.43 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.2419 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000164751 ty_m:0.0239678 tz_m:0.50213 dist_m:0.502702 raw_tz_units:2701.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.7916 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00015702 ty_m:0.023955 tz_m:0.501599 dist_m:0.502171 raw_tz_units:2698.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.99 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000169839 ty_m:0.0239557 tz_m:0.501605 dist_m:0.502177 raw_tz_units:2698.37 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8967 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000152201 ty_m:0.0239618 tz_m:0.501676 dist_m:0.502248 raw_tz_units:2698.75 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.1525 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132574 ty_m:0.0239474 tz_m:0.501242 dist_m:0.501813 raw_tz_units:2696.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.9952 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000153011 ty_m:0.0239484 tz_m:0.501384 dist_m:0.501956 raw_tz_units:2697.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.4907 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000179789 ty_m:0.0239525 tz_m:0.501667 dist_m:0.502238 raw_tz_units:2698.7 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.8599 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000165808 ty_m:0.0239456 tz_m:0.501683 dist_m:0.502254 raw_tz_units:2698.79 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.3642 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000163301 ty_m:0.0239411 tz_m:0.501883 dist_m:0.502454 raw_tz_units:2699.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5458 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000158139 ty_m:0.023958 tz_m:0.501795 dist_m:0.502367 raw_tz_units:2699.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.5018 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000152521 ty_m:0.0239703 tz_m:0.502183 dist_m:0.502755 raw_tz_units:2701.48 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0095 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000166437 ty_m:0.02395 tz_m:0.501501 dist_m:0.502073 raw_tz_units:2697.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6329 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00016265 ty_m:0.0239702 tz_m:0.502093 dist_m:0.502665 raw_tz_units:2700.99 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.3938 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000173199 ty_m:0.023967 tz_m:0.501672 dist_m:0.502244 raw_tz_units:2698.73 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6068 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000143962 ty_m:0.0239612 tz_m:0.501388 dist_m:0.50196 raw_tz_units:2697.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.0601 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150337 ty_m:0.023959 tz_m:0.501608 dist_m:0.50218 raw_tz_units:2698.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5237 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134156 ty_m:0.0239627 tz_m:0.501359 dist_m:0.501931 raw_tz_units:2697.04 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6592 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144089 ty_m:0.0239712 tz_m:0.501995 dist_m:0.502567 raw_tz_units:2700.47 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.3173 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161209 ty_m:0.0239444 tz_m:0.501582 dist_m:0.502153 raw_tz_units:2698.25 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.4078 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000147982 ty_m:0.0239581 tz_m:0.501695 dist_m:0.502267 raw_tz_units:2698.86 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.2992 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000153902 ty_m:0.0239839 tz_m:0.502195 dist_m:0.502767 raw_tz_units:2701.54 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.1545 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000146353 ty_m:0.0239701 tz_m:0.501582 dist_m:0.502154 raw_tz_units:2698.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.0451 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000146619 ty_m:0.0239507 tz_m:0.501693 dist_m:0.502265 raw_tz_units:2698.84 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.8444 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000157664 ty_m:0.0239648 tz_m:0.502171 dist_m:0.502742 raw_tz_units:2701.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.4996 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118599 ty_m:0.023968 tz_m:0.501101 dist_m:0.501674 raw_tz_units:2695.66 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.5741 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000123853 ty_m:0.0239485 tz_m:0.500788 dist_m:0.50136 raw_tz_units:2693.97 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.8432 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138937 ty_m:0.0239542 tz_m:0.501463 dist_m:0.502035 raw_tz_units:2697.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.5421 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133541 ty_m:0.0239366 tz_m:0.50069 dist_m:0.501262 raw_tz_units:2693.45 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.1514 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000143226 ty_m:0.0239729 tz_m:0.501484 dist_m:0.502056 raw_tz_units:2697.72 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.5623 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000145738 ty_m:0.0239253 tz_m:0.500493 dist_m:0.501064 raw_tz_units:2692.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.1066 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134697 ty_m:0.0239286 tz_m:0.500494 dist_m:0.501066 raw_tz_units:2692.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.714 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000131701 ty_m:0.0239494 tz_m:0.500714 dist_m:0.501286 raw_tz_units:2693.57 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.1967 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126922 ty_m:0.0239485 tz_m:0.500845 dist_m:0.501417 raw_tz_units:2694.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.0904 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130772 ty_m:0.0239447 tz_m:0.501537 dist_m:0.502108 raw_tz_units:2698 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.2998 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118321 ty_m:0.0239244 tz_m:0.500278 dist_m:0.50085 raw_tz_units:2691.23 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9499 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.47611e-05 ty_m:0.0239351 tz_m:0.500099 dist_m:0.500671 raw_tz_units:2690.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.149 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000148304 ty_m:0.023945 tz_m:0.5015 dist_m:0.502071 raw_tz_units:2697.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.2336 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000154003 ty_m:0.0239325 tz_m:0.500555 dist_m:0.501127 raw_tz_units:2692.72 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.3153 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121759 ty_m:0.0239372 tz_m:0.500512 dist_m:0.501084 raw_tz_units:2692.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.7505 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000158648 ty_m:0.0239564 tz_m:0.501331 dist_m:0.501903 raw_tz_units:2696.89 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.8607 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142311 ty_m:0.0239578 tz_m:0.501427 dist_m:0.501999 raw_tz_units:2697.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5005 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000131065 ty_m:0.0239341 tz_m:0.500643 dist_m:0.501215 raw_tz_units:2693.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.1807 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130837 ty_m:0.0239428 tz_m:0.501371 dist_m:0.501943 raw_tz_units:2697.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.7351 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136186 ty_m:0.0239436 tz_m:0.500511 dist_m:0.501083 raw_tz_units:2692.48 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8597 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132892 ty_m:0.0239538 tz_m:0.501552 dist_m:0.502124 raw_tz_units:2698.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0781 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000141605 ty_m:0.0239411 tz_m:0.500745 dist_m:0.501317 raw_tz_units:2693.74 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.4239 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000111296 ty_m:0.0239483 tz_m:0.50099 dist_m:0.501562 raw_tz_units:2695.06 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.504 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134371 ty_m:0.0239262 tz_m:0.500554 dist_m:0.501125 raw_tz_units:2692.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.1395 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144208 ty_m:0.0239447 tz_m:0.501076 dist_m:0.501647 raw_tz_units:2695.52 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5997 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119189 ty_m:0.0239751 tz_m:0.501731 dist_m:0.502303 raw_tz_units:2699.05 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.4714 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132099 ty_m:0.0239596 tz_m:0.501164 dist_m:0.501736 raw_tz_units:2696 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.4814 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000141603 ty_m:0.0239825 tz_m:0.502232 dist_m:0.502804 raw_tz_units:2701.74 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.5472 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000105942 ty_m:0.0239277 tz_m:0.500141 dist_m:0.500713 raw_tz_units:2690.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8939 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000100535 ty_m:0.0239329 tz_m:0.500847 dist_m:0.501418 raw_tz_units:2694.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.4789 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133826 ty_m:0.0239475 tz_m:0.501038 dist_m:0.50161 raw_tz_units:2695.32 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.7617 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121999 ty_m:0.023937 tz_m:0.501097 dist_m:0.501668 raw_tz_units:2695.63 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.599 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000105058 ty_m:0.0239667 tz_m:0.501684 dist_m:0.502256 raw_tz_units:2698.79 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.7441 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119613 ty_m:0.0239625 tz_m:0.50113 dist_m:0.501703 raw_tz_units:2695.82 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.3514 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129926 ty_m:0.0239637 tz_m:0.501176 dist_m:0.501749 raw_tz_units:2696.06 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.1751 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000117503 ty_m:0.0239681 tz_m:0.501311 dist_m:0.501884 raw_tz_units:2696.79 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.2236 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.61124e-05 ty_m:0.0239506 tz_m:0.501082 dist_m:0.501655 raw_tz_units:2695.56 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.0351 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000103227 ty_m:0.0239291 tz_m:0.50068 dist_m:0.501252 raw_tz_units:2693.4 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5807 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000124859 ty_m:0.0239512 tz_m:0.500885 dist_m:0.501457 raw_tz_units:2694.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.4474 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000117455 ty_m:0.0239305 tz_m:0.500611 dist_m:0.501183 raw_tz_units:2693.02 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9465 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000104525 ty_m:0.0239349 tz_m:0.500523 dist_m:0.501095 raw_tz_units:2692.55 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.2751 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000103154 ty_m:0.0239343 tz_m:0.500808 dist_m:0.50138 raw_tz_units:2694.08 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.4343 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00012335 ty_m:0.0239147 tz_m:0.500447 dist_m:0.501018 raw_tz_units:2692.14 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9369 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00011619 ty_m:0.0239668 tz_m:0.500961 dist_m:0.501534 raw_tz_units:2694.91 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.9646 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129389 ty_m:0.0239391 tz_m:0.500381 dist_m:0.500953 raw_tz_units:2691.78 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.3253 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.60642e-05 ty_m:0.0239412 tz_m:0.50086 dist_m:0.501432 raw_tz_units:2694.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.9115 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000108298 ty_m:0.023944 tz_m:0.500922 dist_m:0.501494 raw_tz_units:2694.7 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.9433 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000102931 ty_m:0.0239221 tz_m:0.500102 dist_m:0.500674 raw_tz_units:2690.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.1379 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.92685e-05 ty_m:0.0239302 tz_m:0.50058 dist_m:0.501152 raw_tz_units:2692.86 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.7941 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.67341e-05 ty_m:0.0239374 tz_m:0.500793 dist_m:0.501365 raw_tz_units:2694 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.7588 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00010216 ty_m:0.0239501 tz_m:0.5008 dist_m:0.501372 raw_tz_units:2694.04 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.5282 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000106666 ty_m:0.0239472 tz_m:0.500908 dist_m:0.50148 raw_tz_units:2694.62 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.0213 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129229 ty_m:0.0239435 tz_m:0.500865 dist_m:0.501437 raw_tz_units:2694.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.1764 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.78179e-05 ty_m:0.0239276 tz_m:0.500171 dist_m:0.500743 raw_tz_units:2690.66 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.9651 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000114394 ty_m:0.0239609 tz_m:0.50129 dist_m:0.501862 raw_tz_units:2696.67 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.921 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119716 ty_m:0.0239498 tz_m:0.501076 dist_m:0.501648 raw_tz_units:2695.52 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.1168 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138164 ty_m:0.0239537 tz_m:0.501454 dist_m:0.502026 raw_tz_units:2697.56 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.6014 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130962 ty_m:0.0239571 tz_m:0.501128 dist_m:0.501701 raw_tz_units:2695.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.5825 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000165855 ty_m:0.0239608 tz_m:0.50217 dist_m:0.502742 raw_tz_units:2701.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.0425 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133252 ty_m:0.0239508 tz_m:0.500898 dist_m:0.50147 raw_tz_units:2694.57 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.5458 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121569 ty_m:0.0239446 tz_m:0.501231 dist_m:0.501803 raw_tz_units:2696.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.4403 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144075 ty_m:0.0239671 tz_m:0.5016 dist_m:0.502172 raw_tz_units:2698.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7355 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00012113 ty_m:0.0239839 tz_m:0.501533 dist_m:0.502106 raw_tz_units:2697.98 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7664 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.15867e-05 ty_m:0.0239431 tz_m:0.500835 dist_m:0.501407 raw_tz_units:2694.23 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.4645 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144195 ty_m:0.0239762 tz_m:0.501815 dist_m:0.502387 raw_tz_units:2699.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8331 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.52172e-05 ty_m:0.0239366 tz_m:0.500548 dist_m:0.50112 raw_tz_units:2692.68 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.6339 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000123641 ty_m:0.0239788 tz_m:0.502032 dist_m:0.502604 raw_tz_units:2700.67 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.6888 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.33406e-05 ty_m:0.0239459 tz_m:0.501046 dist_m:0.501618 raw_tz_units:2695.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.1924 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000163037 ty_m:0.0239537 tz_m:0.501286 dist_m:0.501858 raw_tz_units:2696.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.0894 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000162507 ty_m:0.0239685 tz_m:0.501692 dist_m:0.502265 raw_tz_units:2698.84 model_height_units:516.429
+Frame:-1/-1 Time detection: 35.6951 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140619 ty_m:0.0239409 tz_m:0.501085 dist_m:0.501657 raw_tz_units:2695.57 model_height_units:516.429
+Frame:-1/-1 Time detection: 34.8513 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134469 ty_m:0.0239658 tz_m:0.50125 dist_m:0.501822 raw_tz_units:2696.46 model_height_units:516.429
+Frame:-1/-1 Time detection: 34.0309 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.74727e-05 ty_m:0.0239525 tz_m:0.501653 dist_m:0.502225 raw_tz_units:2698.63 model_height_units:516.429
+Frame:-1/-1 Time detection: 34.5015 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000160822 ty_m:0.0239561 tz_m:0.501501 dist_m:0.502072 raw_tz_units:2697.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 33.0529 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.04261e-05 ty_m:0.0239606 tz_m:0.500748 dist_m:0.501321 raw_tz_units:2693.76 model_height_units:516.429
+Frame:-1/-1 Time detection: 31.8882 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000173064 ty_m:0.0239614 tz_m:0.501462 dist_m:0.502034 raw_tz_units:2697.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 31.8599 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:6.87005e-05 ty_m:0.0239548 tz_m:0.500688 dist_m:0.50126 raw_tz_units:2693.43 model_height_units:516.429
+Frame:-1/-1 Time detection: 31.3039 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161957 ty_m:0.0239627 tz_m:0.502067 dist_m:0.502639 raw_tz_units:2700.86 model_height_units:516.429
+Frame:-1/-1 Time detection: 32.0169 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000165794 ty_m:0.0239535 tz_m:0.501418 dist_m:0.50199 raw_tz_units:2697.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 33.084 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139941 ty_m:0.0239697 tz_m:0.501468 dist_m:0.502041 raw_tz_units:2697.63 model_height_units:516.429
+Frame:-1/-1 Time detection: 33.5379 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000160016 ty_m:0.0239683 tz_m:0.50196 dist_m:0.502532 raw_tz_units:2700.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 34.5089 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.09079e-05 ty_m:0.0239426 tz_m:0.500642 dist_m:0.501215 raw_tz_units:2693.19 model_height_units:516.429
+Frame:-1/-1 Time detection: 35.3288 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.32123e-05 ty_m:0.0239418 tz_m:0.500817 dist_m:0.501389 raw_tz_units:2694.13 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.0172 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142585 ty_m:0.0239594 tz_m:0.501572 dist_m:0.502144 raw_tz_units:2698.19 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8667 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013362 ty_m:0.0239566 tz_m:0.501088 dist_m:0.50166 raw_tz_units:2695.59 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.4125 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000154868 ty_m:0.0239722 tz_m:0.502398 dist_m:0.50297 raw_tz_units:2702.64 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.4251 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.02694e-05 ty_m:0.0239558 tz_m:0.500771 dist_m:0.501344 raw_tz_units:2693.88 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.5391 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000151012 ty_m:0.0239771 tz_m:0.50211 dist_m:0.502682 raw_tz_units:2701.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.3289 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150793 ty_m:0.0239531 tz_m:0.501535 dist_m:0.502106 raw_tz_units:2697.99 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.8605 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000102887 ty_m:0.0239559 tz_m:0.50159 dist_m:0.502162 raw_tz_units:2698.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.6036 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000145478 ty_m:0.0239653 tz_m:0.501661 dist_m:0.502233 raw_tz_units:2698.67 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.0665 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120868 ty_m:0.0239574 tz_m:0.50167 dist_m:0.502242 raw_tz_units:2698.72 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.4502 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120857 ty_m:0.023946 tz_m:0.501202 dist_m:0.501774 raw_tz_units:2696.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.8837 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127858 ty_m:0.0239747 tz_m:0.501538 dist_m:0.50211 raw_tz_units:2698.01 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.8973 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000102689 ty_m:0.0239647 tz_m:0.501761 dist_m:0.502333 raw_tz_units:2699.21 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8621 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140246 ty_m:0.0239295 tz_m:0.501001 dist_m:0.501572 raw_tz_units:2695.12 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.2316 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136604 ty_m:0.0239374 tz_m:0.501335 dist_m:0.501906 raw_tz_units:2696.92 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.7246 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000131424 ty_m:0.0239514 tz_m:0.501739 dist_m:0.50231 raw_tz_units:2699.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.3379 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133232 ty_m:0.0239393 tz_m:0.500467 dist_m:0.50104 raw_tz_units:2692.25 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0396 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000107702 ty_m:0.0239552 tz_m:0.50066 dist_m:0.501233 raw_tz_units:2693.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6915 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134601 ty_m:0.0239309 tz_m:0.500922 dist_m:0.501493 raw_tz_units:2694.69 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.006 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129791 ty_m:0.0239691 tz_m:0.50183 dist_m:0.502402 raw_tz_units:2699.58 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.3272 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000101782 ty_m:0.0239507 tz_m:0.501036 dist_m:0.501608 raw_tz_units:2695.31 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.5912 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120135 ty_m:0.0239445 tz_m:0.50069 dist_m:0.501262 raw_tz_units:2693.45 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.1869 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000104763 ty_m:0.0239488 tz_m:0.500857 dist_m:0.501429 raw_tz_units:2694.35 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.168 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000102909 ty_m:0.0239572 tz_m:0.501166 dist_m:0.501739 raw_tz_units:2696.01 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.5344 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133721 ty_m:0.0239443 tz_m:0.500903 dist_m:0.501475 raw_tz_units:2694.59 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.7844 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142731 ty_m:0.0239038 tz_m:0.500432 dist_m:0.501003 raw_tz_units:2692.06 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.7161 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000131174 ty_m:0.0239616 tz_m:0.501393 dist_m:0.501965 raw_tz_units:2697.23 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.113 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129716 ty_m:0.0239403 tz_m:0.500996 dist_m:0.501568 raw_tz_units:2695.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.3865 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134942 ty_m:0.0239324 tz_m:0.50102 dist_m:0.501591 raw_tz_units:2695.22 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.6238 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127288 ty_m:0.0239669 tz_m:0.501588 dist_m:0.502161 raw_tz_units:2698.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.3031 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00012481 ty_m:0.023955 tz_m:0.50108 dist_m:0.501652 raw_tz_units:2695.55 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.0863 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000114447 ty_m:0.0239699 tz_m:0.501433 dist_m:0.502005 raw_tz_units:2697.44 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.7517 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00011902 ty_m:0.0239423 tz_m:0.500692 dist_m:0.501264 raw_tz_units:2693.46 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.0379 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136774 ty_m:0.0239479 tz_m:0.500965 dist_m:0.501537 raw_tz_units:2694.92 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.118 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.69885e-05 ty_m:0.0239408 tz_m:0.500655 dist_m:0.501227 raw_tz_units:2693.26 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.7792 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130597 ty_m:0.0239689 tz_m:0.501557 dist_m:0.502129 raw_tz_units:2698.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.8289 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132758 ty_m:0.0239672 tz_m:0.501485 dist_m:0.502057 raw_tz_units:2697.72 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.0259 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000156762 ty_m:0.0239424 tz_m:0.50114 dist_m:0.501711 raw_tz_units:2695.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.4624 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000104955 ty_m:0.0239162 tz_m:0.500122 dist_m:0.500694 raw_tz_units:2690.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.8674 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126181 ty_m:0.023927 tz_m:0.500948 dist_m:0.50152 raw_tz_units:2694.84 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.8439 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000164008 ty_m:0.0239224 tz_m:0.500481 dist_m:0.501053 raw_tz_units:2692.32 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.2689 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122734 ty_m:0.0239264 tz_m:0.500867 dist_m:0.501438 raw_tz_units:2694.4 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.3885 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000103895 ty_m:0.0239205 tz_m:0.500221 dist_m:0.500793 raw_tz_units:2690.92 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.1487 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00015847 ty_m:0.0239482 tz_m:0.501051 dist_m:0.501623 raw_tz_units:2695.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.6965 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.0001009 ty_m:0.0239574 tz_m:0.501232 dist_m:0.501805 raw_tz_units:2696.37 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.8971 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000157114 ty_m:0.0239478 tz_m:0.501115 dist_m:0.501686 raw_tz_units:2695.73 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.6313 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000111267 ty_m:0.0239053 tz_m:0.499457 dist_m:0.500028 raw_tz_units:2686.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.7977 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132105 ty_m:0.0239129 tz_m:0.500117 dist_m:0.500689 raw_tz_units:2690.37 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.7257 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00017074 ty_m:0.0239425 tz_m:0.501474 dist_m:0.502045 raw_tz_units:2697.66 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.5514 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000147951 ty_m:0.0239454 tz_m:0.501325 dist_m:0.501897 raw_tz_units:2696.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.9288 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134025 ty_m:0.0239151 tz_m:0.500294 dist_m:0.500865 raw_tz_units:2691.32 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.2726 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000154572 ty_m:0.0239362 tz_m:0.501247 dist_m:0.501818 raw_tz_units:2696.44 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.4752 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134481 ty_m:0.0239224 tz_m:0.500311 dist_m:0.500883 raw_tz_units:2691.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.1172 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.43922e-05 ty_m:0.0239191 tz_m:0.50012 dist_m:0.500691 raw_tz_units:2690.38 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.1102 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000156943 ty_m:0.0239629 tz_m:0.501658 dist_m:0.50223 raw_tz_units:2698.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.9769 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.54298e-05 ty_m:0.0239265 tz_m:0.500326 dist_m:0.500898 raw_tz_units:2691.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.2269 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00015881 ty_m:0.0239552 tz_m:0.5015 dist_m:0.502072 raw_tz_units:2697.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.8928 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000147044 ty_m:0.0239443 tz_m:0.501425 dist_m:0.501997 raw_tz_units:2697.4 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8812 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000156117 ty_m:0.0239396 tz_m:0.501252 dist_m:0.501824 raw_tz_units:2696.47 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.7708 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.88057e-05 ty_m:0.0239368 tz_m:0.500727 dist_m:0.501299 raw_tz_units:2693.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.4965 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137298 ty_m:0.0239516 tz_m:0.501293 dist_m:0.501865 raw_tz_units:2696.69 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.5708 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.74127e-05 ty_m:0.0239477 tz_m:0.500885 dist_m:0.501457 raw_tz_units:2694.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.384 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150303 ty_m:0.023958 tz_m:0.501214 dist_m:0.501786 raw_tz_units:2696.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.128 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139604 ty_m:0.0239335 tz_m:0.500955 dist_m:0.501527 raw_tz_units:2694.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.6279 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.69998e-05 ty_m:0.0239384 tz_m:0.500575 dist_m:0.501147 raw_tz_units:2692.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.7792 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128035 ty_m:0.0239488 tz_m:0.500476 dist_m:0.501048 raw_tz_units:2692.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8402 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138177 ty_m:0.0239587 tz_m:0.501305 dist_m:0.501877 raw_tz_units:2696.76 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.442 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121998 ty_m:0.0239407 tz_m:0.501214 dist_m:0.501786 raw_tz_units:2696.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.3113 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.15272e-05 ty_m:0.0239656 tz_m:0.501134 dist_m:0.501706 raw_tz_units:2695.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.6412 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138021 ty_m:0.0239392 tz_m:0.500513 dist_m:0.501085 raw_tz_units:2692.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 35.8288 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125901 ty_m:0.0239671 tz_m:0.501148 dist_m:0.501721 raw_tz_units:2695.91 model_height_units:516.429
+Frame:-1/-1 Time detection: 35.3533 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013124 ty_m:0.0239557 tz_m:0.50121 dist_m:0.501782 raw_tz_units:2696.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 35.7281 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013063 ty_m:0.0239656 tz_m:0.501609 dist_m:0.502181 raw_tz_units:2698.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.0088 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000107162 ty_m:0.023946 tz_m:0.501276 dist_m:0.501848 raw_tz_units:2696.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.8704 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013182 ty_m:0.0239551 tz_m:0.501088 dist_m:0.50166 raw_tz_units:2695.59 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.7809 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134266 ty_m:0.023939 tz_m:0.501024 dist_m:0.501595 raw_tz_units:2695.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.5992 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130483 ty_m:0.0239394 tz_m:0.500755 dist_m:0.501327 raw_tz_units:2693.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.0969 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142771 ty_m:0.023933 tz_m:0.500498 dist_m:0.50107 raw_tz_units:2692.42 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.0226 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139939 ty_m:0.023942 tz_m:0.500689 dist_m:0.501261 raw_tz_units:2693.44 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.2645 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.0001047 ty_m:0.0239613 tz_m:0.500675 dist_m:0.501248 raw_tz_units:2693.37 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.081 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000109125 ty_m:0.0239485 tz_m:0.50061 dist_m:0.501182 raw_tz_units:2693.02 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.2671 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133877 ty_m:0.0239375 tz_m:0.500738 dist_m:0.50131 raw_tz_units:2693.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.6333 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000143438 ty_m:0.0239127 tz_m:0.49993 dist_m:0.500502 raw_tz_units:2689.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.6727 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118843 ty_m:0.0239657 tz_m:0.501109 dist_m:0.501682 raw_tz_units:2695.7 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.3506 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139096 ty_m:0.0239365 tz_m:0.500907 dist_m:0.501478 raw_tz_units:2694.61 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8862 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121037 ty_m:0.0239498 tz_m:0.500827 dist_m:0.501399 raw_tz_units:2694.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0198 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000152392 ty_m:0.0239549 tz_m:0.500981 dist_m:0.501554 raw_tz_units:2695.01 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.2583 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000143514 ty_m:0.0239508 tz_m:0.500979 dist_m:0.501551 raw_tz_units:2695 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.7325 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00014498 ty_m:0.0239388 tz_m:0.500836 dist_m:0.501408 raw_tz_units:2694.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.1019 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142228 ty_m:0.0239134 tz_m:0.500816 dist_m:0.501387 raw_tz_units:2694.13 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.2014 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013794 ty_m:0.0239105 tz_m:0.500576 dist_m:0.501147 raw_tz_units:2692.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.7402 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000116244 ty_m:0.0239517 tz_m:0.500827 dist_m:0.501399 raw_tz_units:2694.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.8249 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122612 ty_m:0.0239639 tz_m:0.501241 dist_m:0.501813 raw_tz_units:2696.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.6058 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137998 ty_m:0.0239246 tz_m:0.500526 dist_m:0.501097 raw_tz_units:2692.56 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.2045 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000123163 ty_m:0.0239487 tz_m:0.500722 dist_m:0.501294 raw_tz_units:2693.62 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.0433 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135406 ty_m:0.0239549 tz_m:0.501437 dist_m:0.502008 raw_tz_units:2697.46 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.1275 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126426 ty_m:0.0239702 tz_m:0.501592 dist_m:0.502164 raw_tz_units:2698.3 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.9911 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000124624 ty_m:0.0239333 tz_m:0.501222 dist_m:0.501793 raw_tz_units:2696.31 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.346 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129958 ty_m:0.0239229 tz_m:0.500456 dist_m:0.501028 raw_tz_units:2692.19 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.773 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127816 ty_m:0.0239568 tz_m:0.501153 dist_m:0.501725 raw_tz_units:2695.94 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.8403 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142617 ty_m:0.0239603 tz_m:0.50132 dist_m:0.501892 raw_tz_units:2696.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.6774 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118482 ty_m:0.023937 tz_m:0.501042 dist_m:0.501614 raw_tz_units:2695.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.8012 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121808 ty_m:0.0239441 tz_m:0.500955 dist_m:0.501527 raw_tz_units:2694.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.8976 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133191 ty_m:0.0239678 tz_m:0.501184 dist_m:0.501757 raw_tz_units:2696.1 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.1928 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128079 ty_m:0.023959 tz_m:0.501228 dist_m:0.5018 raw_tz_units:2696.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.891 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119566 ty_m:0.0239218 tz_m:0.49972 dist_m:0.500292 raw_tz_units:2688.23 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.8616 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139117 ty_m:0.0239336 tz_m:0.500299 dist_m:0.500871 raw_tz_units:2691.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.35 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000143351 ty_m:0.0239478 tz_m:0.500928 dist_m:0.5015 raw_tz_units:2694.73 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.5698 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140068 ty_m:0.023953 tz_m:0.501532 dist_m:0.502104 raw_tz_units:2697.98 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.5037 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.54719e-05 ty_m:0.0239157 tz_m:0.500453 dist_m:0.501024 raw_tz_units:2692.17 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.3515 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00014565 ty_m:0.0239544 tz_m:0.501322 dist_m:0.501894 raw_tz_units:2696.85 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.4592 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000107631 ty_m:0.0239223 tz_m:0.500854 dist_m:0.501425 raw_tz_units:2694.33 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.6149 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.43181e-05 ty_m:0.0239051 tz_m:0.499817 dist_m:0.500388 raw_tz_units:2688.75 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.0496 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140444 ty_m:0.0239533 tz_m:0.50099 dist_m:0.501562 raw_tz_units:2695.06 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.7914 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130065 ty_m:0.0239746 tz_m:0.501759 dist_m:0.502332 raw_tz_units:2699.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.6002 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000162487 ty_m:0.023974 tz_m:0.501655 dist_m:0.502227 raw_tz_units:2698.64 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.7548 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134931 ty_m:0.0239439 tz_m:0.50074 dist_m:0.501312 raw_tz_units:2693.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.5748 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000107296 ty_m:0.0239542 tz_m:0.501343 dist_m:0.501914 raw_tz_units:2696.96 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.4283 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133821 ty_m:0.0239301 tz_m:0.500714 dist_m:0.501286 raw_tz_units:2693.58 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.3497 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.29542e-05 ty_m:0.0239353 tz_m:0.500841 dist_m:0.501413 raw_tz_units:2694.26 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.7064 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134318 ty_m:0.0239544 tz_m:0.501067 dist_m:0.501639 raw_tz_units:2695.48 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.3632 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144748 ty_m:0.0239579 tz_m:0.501199 dist_m:0.501772 raw_tz_units:2696.19 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.663 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000145038 ty_m:0.0239753 tz_m:0.501713 dist_m:0.502285 raw_tz_units:2698.95 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.4989 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.06877e-05 ty_m:0.0239185 tz_m:0.500256 dist_m:0.500827 raw_tz_units:2691.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.605 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000148743 ty_m:0.0239619 tz_m:0.501414 dist_m:0.501986 raw_tz_units:2697.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9704 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000151715 ty_m:0.0239352 tz_m:0.501017 dist_m:0.501588 raw_tz_units:2695.21 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.6987 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.99345e-05 ty_m:0.0239367 tz_m:0.500535 dist_m:0.501107 raw_tz_units:2692.61 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.2331 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140232 ty_m:0.0239637 tz_m:0.501461 dist_m:0.502034 raw_tz_units:2697.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.6864 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.75612e-05 ty_m:0.0239377 tz_m:0.501111 dist_m:0.501682 raw_tz_units:2695.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.6497 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135803 ty_m:0.0239802 tz_m:0.501551 dist_m:0.502124 raw_tz_units:2698.08 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6959 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135238 ty_m:0.0239448 tz_m:0.501128 dist_m:0.5017 raw_tz_units:2695.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.24 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132334 ty_m:0.023955 tz_m:0.501229 dist_m:0.501801 raw_tz_units:2696.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.0206 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138066 ty_m:0.0239351 tz_m:0.500488 dist_m:0.50106 raw_tz_units:2692.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.4366 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000147463 ty_m:0.0239419 tz_m:0.501047 dist_m:0.501618 raw_tz_units:2695.37 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5533 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000100733 ty_m:0.023953 tz_m:0.501072 dist_m:0.501645 raw_tz_units:2695.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.585 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000149583 ty_m:0.0239374 tz_m:0.500831 dist_m:0.501402 raw_tz_units:2694.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6546 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.37644e-05 ty_m:0.0239499 tz_m:0.500705 dist_m:0.501278 raw_tz_units:2693.53 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.9952 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140523 ty_m:0.023941 tz_m:0.500699 dist_m:0.501271 raw_tz_units:2693.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.56 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000148527 ty_m:0.0239547 tz_m:0.500709 dist_m:0.501281 raw_tz_units:2693.55 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6556 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.87593e-05 ty_m:0.0239671 tz_m:0.501011 dist_m:0.501584 raw_tz_units:2695.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.1996 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119455 ty_m:0.0239438 tz_m:0.501118 dist_m:0.50169 raw_tz_units:2695.75 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.9127 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125354 ty_m:0.0239259 tz_m:0.500421 dist_m:0.500993 raw_tz_units:2692 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.5012 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.82664e-05 ty_m:0.0239533 tz_m:0.501072 dist_m:0.501645 raw_tz_units:2695.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7929 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150675 ty_m:0.0239616 tz_m:0.50169 dist_m:0.502262 raw_tz_units:2698.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.3424 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120921 ty_m:0.0239415 tz_m:0.500907 dist_m:0.501479 raw_tz_units:2694.61 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.5235 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137014 ty_m:0.0239484 tz_m:0.501473 dist_m:0.502045 raw_tz_units:2697.66 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8593 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118008 ty_m:0.0239377 tz_m:0.501 dist_m:0.501572 raw_tz_units:2695.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.0313 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138332 ty_m:0.0239274 tz_m:0.500447 dist_m:0.501019 raw_tz_units:2692.14 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.4101 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137428 ty_m:0.0239315 tz_m:0.500531 dist_m:0.501103 raw_tz_units:2692.59 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.6626 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.97971e-05 ty_m:0.0239449 tz_m:0.501018 dist_m:0.50159 raw_tz_units:2695.21 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.1188 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112384 ty_m:0.0239504 tz_m:0.501002 dist_m:0.501574 raw_tz_units:2695.13 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.4358 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128122 ty_m:0.0239038 tz_m:0.500141 dist_m:0.500711 raw_tz_units:2690.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.2512 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000115968 ty_m:0.0239533 tz_m:0.501137 dist_m:0.501709 raw_tz_units:2695.85 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.3984 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128385 ty_m:0.0239728 tz_m:0.501611 dist_m:0.502183 raw_tz_units:2698.4 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.8539 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142942 ty_m:0.023933 tz_m:0.501049 dist_m:0.50162 raw_tz_units:2695.38 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8805 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112378 ty_m:0.0239462 tz_m:0.500882 dist_m:0.501454 raw_tz_units:2694.48 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.7085 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122386 ty_m:0.0239377 tz_m:0.500757 dist_m:0.501329 raw_tz_units:2693.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.954 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00011603 ty_m:0.023929 tz_m:0.500193 dist_m:0.500765 raw_tz_units:2690.77 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.7936 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130841 ty_m:0.0239177 tz_m:0.500381 dist_m:0.500952 raw_tz_units:2691.78 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6012 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128198 ty_m:0.0239457 tz_m:0.501 dist_m:0.501572 raw_tz_units:2695.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6036 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144007 ty_m:0.0239076 tz_m:0.500025 dist_m:0.500596 raw_tz_units:2689.87 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5735 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125527 ty_m:0.0239678 tz_m:0.501343 dist_m:0.501916 raw_tz_units:2696.96 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.3621 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135458 ty_m:0.0239513 tz_m:0.501128 dist_m:0.5017 raw_tz_units:2695.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.4998 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121977 ty_m:0.0239365 tz_m:0.500986 dist_m:0.501558 raw_tz_units:2695.04 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.4084 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135343 ty_m:0.0239469 tz_m:0.50076 dist_m:0.501332 raw_tz_units:2693.82 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8522 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000105871 ty_m:0.0239311 tz_m:0.500167 dist_m:0.500739 raw_tz_units:2690.63 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8833 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00014877 ty_m:0.0239336 tz_m:0.501144 dist_m:0.501715 raw_tz_units:2695.89 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.2678 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125063 ty_m:0.0239243 tz_m:0.500222 dist_m:0.500794 raw_tz_units:2690.93 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.4442 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129462 ty_m:0.0239717 tz_m:0.501185 dist_m:0.501758 raw_tz_units:2696.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7834 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127729 ty_m:0.0239359 tz_m:0.500659 dist_m:0.501231 raw_tz_units:2693.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.9227 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125679 ty_m:0.0239136 tz_m:0.500031 dist_m:0.500602 raw_tz_units:2689.9 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.322 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00012133 ty_m:0.0239671 tz_m:0.501095 dist_m:0.501668 raw_tz_units:2695.63 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.7708 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000145963 ty_m:0.0239518 tz_m:0.501299 dist_m:0.501871 raw_tz_units:2696.72 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8902 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118452 ty_m:0.0239174 tz_m:0.500294 dist_m:0.500866 raw_tz_units:2691.32 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8207 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000123512 ty_m:0.0239559 tz_m:0.501127 dist_m:0.501699 raw_tz_units:2695.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.6512 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135971 ty_m:0.0239569 tz_m:0.501165 dist_m:0.501737 raw_tz_units:2696 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.1616 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000114706 ty_m:0.0239508 tz_m:0.50078 dist_m:0.501353 raw_tz_units:2693.93 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.3567 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000102316 ty_m:0.0239368 tz_m:0.501028 dist_m:0.5016 raw_tz_units:2695.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.4611 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000111814 ty_m:0.023898 tz_m:0.499712 dist_m:0.500283 raw_tz_units:2688.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.0233 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000105545 ty_m:0.02394 tz_m:0.501159 dist_m:0.501731 raw_tz_units:2695.97 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.7806 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127446 ty_m:0.0239407 tz_m:0.500979 dist_m:0.501551 raw_tz_units:2695 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.184 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000115911 ty_m:0.0239292 tz_m:0.500828 dist_m:0.5014 raw_tz_units:2694.19 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.342 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136941 ty_m:0.0239611 tz_m:0.501287 dist_m:0.501859 raw_tz_units:2696.66 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.5714 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.37784e-05 ty_m:0.0239438 tz_m:0.500987 dist_m:0.501559 raw_tz_units:2695.05 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7483 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136033 ty_m:0.0239431 tz_m:0.500826 dist_m:0.501398 raw_tz_units:2694.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.1167 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000161966 ty_m:0.0239574 tz_m:0.500692 dist_m:0.501264 raw_tz_units:2693.46 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.1401 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000154885 ty_m:0.0239583 tz_m:0.501433 dist_m:0.502006 raw_tz_units:2697.45 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.2288 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00010126 ty_m:0.0239295 tz_m:0.50079 dist_m:0.501361 raw_tz_units:2693.98 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.5665 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00014923 ty_m:0.0239086 tz_m:0.499918 dist_m:0.500489 raw_tz_units:2689.29 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.1274 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125295 ty_m:0.0239582 tz_m:0.501024 dist_m:0.501597 raw_tz_units:2695.25 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.5913 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000146039 ty_m:0.0239418 tz_m:0.500857 dist_m:0.501429 raw_tz_units:2694.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.7474 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142214 ty_m:0.0239575 tz_m:0.500977 dist_m:0.501549 raw_tz_units:2694.99 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.1491 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122429 ty_m:0.0239624 tz_m:0.500827 dist_m:0.5014 raw_tz_units:2694.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7838 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000148817 ty_m:0.0239483 tz_m:0.501108 dist_m:0.50168 raw_tz_units:2695.69 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8509 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133984 ty_m:0.0239442 tz_m:0.501267 dist_m:0.501839 raw_tz_units:2696.55 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.882 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120414 ty_m:0.0239152 tz_m:0.499873 dist_m:0.500445 raw_tz_units:2689.05 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.0418 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150995 ty_m:0.0239686 tz_m:0.501625 dist_m:0.502197 raw_tz_units:2698.48 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.3262 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.70687e-05 ty_m:0.0239326 tz_m:0.500462 dist_m:0.501034 raw_tz_units:2692.22 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.1047 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.5384e-05 ty_m:0.0239265 tz_m:0.500637 dist_m:0.501208 raw_tz_units:2693.16 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.6375 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150346 ty_m:0.0239568 tz_m:0.501488 dist_m:0.50206 raw_tz_units:2697.74 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.0712 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.16355e-05 ty_m:0.0239392 tz_m:0.500684 dist_m:0.501256 raw_tz_units:2693.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.8496 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130589 ty_m:0.0239425 tz_m:0.500662 dist_m:0.501234 raw_tz_units:2693.3 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.7145 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000141631 ty_m:0.023942 tz_m:0.500966 dist_m:0.501537 raw_tz_units:2694.93 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.1375 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.51525e-05 ty_m:0.0239286 tz_m:0.501051 dist_m:0.501622 raw_tz_units:2695.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.4606 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000148943 ty_m:0.0239547 tz_m:0.501423 dist_m:0.501995 raw_tz_units:2697.39 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.9965 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000100369 ty_m:0.0239459 tz_m:0.50131 dist_m:0.501882 raw_tz_units:2696.78 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.261 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00014496 ty_m:0.0239441 tz_m:0.501134 dist_m:0.501706 raw_tz_units:2695.84 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.1372 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000101977 ty_m:0.0239384 tz_m:0.500567 dist_m:0.501139 raw_tz_units:2692.79 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.7309 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000115855 ty_m:0.0239377 tz_m:0.500864 dist_m:0.501436 raw_tz_units:2694.38 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.2936 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135232 ty_m:0.0239549 tz_m:0.501004 dist_m:0.501576 raw_tz_units:2695.14 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.7617 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.36963e-05 ty_m:0.0239631 tz_m:0.501168 dist_m:0.50174 raw_tz_units:2696.02 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.529 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000141458 ty_m:0.023962 tz_m:0.501568 dist_m:0.50214 raw_tz_units:2698.17 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.2491 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.85998e-05 ty_m:0.0239503 tz_m:0.500905 dist_m:0.501478 raw_tz_units:2694.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.169 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134774 ty_m:0.0239615 tz_m:0.501336 dist_m:0.501909 raw_tz_units:2696.92 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.0899 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013446 ty_m:0.0239416 tz_m:0.500659 dist_m:0.501232 raw_tz_units:2693.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.2242 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.71378e-05 ty_m:0.0239585 tz_m:0.501327 dist_m:0.5019 raw_tz_units:2696.88 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.4062 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129291 ty_m:0.0239651 tz_m:0.501213 dist_m:0.501785 raw_tz_units:2696.26 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.1863 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119952 ty_m:0.0239328 tz_m:0.500667 dist_m:0.501239 raw_tz_units:2693.32 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.7257 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000115153 ty_m:0.0239401 tz_m:0.501057 dist_m:0.501629 raw_tz_units:2695.42 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.7881 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000114549 ty_m:0.0239541 tz_m:0.501253 dist_m:0.501825 raw_tz_units:2696.48 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.7068 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013253 ty_m:0.0239286 tz_m:0.500215 dist_m:0.500787 raw_tz_units:2690.89 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.2543 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000114229 ty_m:0.0239434 tz_m:0.500467 dist_m:0.50104 raw_tz_units:2692.25 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0031 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000108657 ty_m:0.023965 tz_m:0.501722 dist_m:0.502294 raw_tz_units:2699 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9487 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122727 ty_m:0.0239526 tz_m:0.501413 dist_m:0.501985 raw_tz_units:2697.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.1376 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119123 ty_m:0.0239493 tz_m:0.500775 dist_m:0.501347 raw_tz_units:2693.9 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.7254 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122381 ty_m:0.0239379 tz_m:0.501055 dist_m:0.501627 raw_tz_units:2695.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.6443 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120595 ty_m:0.0239272 tz_m:0.500826 dist_m:0.501397 raw_tz_units:2694.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.4185 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000117503 ty_m:0.0239811 tz_m:0.501755 dist_m:0.502328 raw_tz_units:2699.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.5272 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000111008 ty_m:0.0239527 tz_m:0.501159 dist_m:0.501731 raw_tz_units:2695.97 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.1922 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.415e-05 ty_m:0.0239589 tz_m:0.501305 dist_m:0.501878 raw_tz_units:2696.76 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.3689 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128568 ty_m:0.0239388 tz_m:0.500896 dist_m:0.501467 raw_tz_units:2694.55 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.8623 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130203 ty_m:0.0239523 tz_m:0.500854 dist_m:0.501426 raw_tz_units:2694.33 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.8917 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000116266 ty_m:0.023931 tz_m:0.500982 dist_m:0.501553 raw_tz_units:2695.02 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.5954 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138339 ty_m:0.0239757 tz_m:0.501317 dist_m:0.50189 raw_tz_units:2696.82 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.6368 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112942 ty_m:0.0239748 tz_m:0.501647 dist_m:0.502219 raw_tz_units:2698.59 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.2144 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.59243e-05 ty_m:0.0239717 tz_m:0.501415 dist_m:0.501988 raw_tz_units:2697.35 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.196 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00011896 ty_m:0.0238993 tz_m:0.500156 dist_m:0.500727 raw_tz_units:2690.58 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.5705 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000115907 ty_m:0.0239571 tz_m:0.501217 dist_m:0.501789 raw_tz_units:2696.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.6675 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137645 ty_m:0.0239728 tz_m:0.501274 dist_m:0.501847 raw_tz_units:2696.59 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.7826 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000113803 ty_m:0.0239723 tz_m:0.501659 dist_m:0.502231 raw_tz_units:2698.66 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.6365 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136388 ty_m:0.0239552 tz_m:0.501403 dist_m:0.501975 raw_tz_units:2697.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.5844 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000101735 ty_m:0.0239304 tz_m:0.500513 dist_m:0.501084 raw_tz_units:2692.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.544 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112072 ty_m:0.0239595 tz_m:0.5011 dist_m:0.501672 raw_tz_units:2695.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.0473 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112419 ty_m:0.0239208 tz_m:0.500633 dist_m:0.501204 raw_tz_units:2693.14 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.6674 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120002 ty_m:0.0239332 tz_m:0.500665 dist_m:0.501236 raw_tz_units:2693.31 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.7601 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000113665 ty_m:0.0239438 tz_m:0.500837 dist_m:0.501409 raw_tz_units:2694.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.0471 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129465 ty_m:0.0239713 tz_m:0.501432 dist_m:0.502005 raw_tz_units:2697.44 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.9334 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134538 ty_m:0.0239539 tz_m:0.501408 dist_m:0.50198 raw_tz_units:2697.31 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.8445 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140751 ty_m:0.0239645 tz_m:0.501273 dist_m:0.501846 raw_tz_units:2696.58 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.7661 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000136906 ty_m:0.0239449 tz_m:0.501031 dist_m:0.501603 raw_tz_units:2695.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.4503 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.54764e-05 ty_m:0.023934 tz_m:0.500235 dist_m:0.500807 raw_tz_units:2691 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.142 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138661 ty_m:0.0239471 tz_m:0.501095 dist_m:0.501667 raw_tz_units:2695.62 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.6312 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000110611 ty_m:0.0238852 tz_m:0.500482 dist_m:0.501051 raw_tz_units:2692.33 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.313 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000131978 ty_m:0.0239429 tz_m:0.501188 dist_m:0.50176 raw_tz_units:2696.13 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.4681 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140525 ty_m:0.0239509 tz_m:0.50084 dist_m:0.501412 raw_tz_units:2694.25 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.056 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00011318 ty_m:0.0239275 tz_m:0.500249 dist_m:0.500821 raw_tz_units:2691.07 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.4701 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.80443e-05 ty_m:0.0239188 tz_m:0.500488 dist_m:0.501059 raw_tz_units:2692.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 49.212 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125215 ty_m:0.0239541 tz_m:0.501296 dist_m:0.501869 raw_tz_units:2696.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.6924 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133831 ty_m:0.0239526 tz_m:0.501242 dist_m:0.501814 raw_tz_units:2696.42 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.0215 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125501 ty_m:0.0239726 tz_m:0.501315 dist_m:0.501888 raw_tz_units:2696.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.9497 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132809 ty_m:0.023958 tz_m:0.501285 dist_m:0.501857 raw_tz_units:2696.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.1515 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000142089 ty_m:0.023959 tz_m:0.501384 dist_m:0.501956 raw_tz_units:2697.18 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.852 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135562 ty_m:0.0239531 tz_m:0.501553 dist_m:0.502125 raw_tz_units:2698.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.3945 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000102599 ty_m:0.0239143 tz_m:0.499862 dist_m:0.500434 raw_tz_units:2688.99 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.6637 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128358 ty_m:0.0239651 tz_m:0.501388 dist_m:0.50196 raw_tz_units:2697.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.8267 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140008 ty_m:0.0239591 tz_m:0.501123 dist_m:0.501695 raw_tz_units:2695.78 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.7586 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134469 ty_m:0.0239644 tz_m:0.501271 dist_m:0.501843 raw_tz_units:2696.57 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.998 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.06134e-05 ty_m:0.0239064 tz_m:0.500115 dist_m:0.500686 raw_tz_units:2690.35 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.2119 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000144772 ty_m:0.0239669 tz_m:0.501471 dist_m:0.502044 raw_tz_units:2697.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.1455 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000135887 ty_m:0.0239587 tz_m:0.501132 dist_m:0.501704 raw_tz_units:2695.82 model_height_units:516.429
+Frame:-1/-1 Time detection: 48.3239 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.00302e-05 ty_m:0.023932 tz_m:0.50062 dist_m:0.501192 raw_tz_units:2693.07 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.1705 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130657 ty_m:0.0239408 tz_m:0.500647 dist_m:0.501219 raw_tz_units:2693.21 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.8209 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132903 ty_m:0.023939 tz_m:0.501361 dist_m:0.501932 raw_tz_units:2697.06 model_height_units:516.429
+Frame:-1/-1 Time detection: 47.6637 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.68506e-05 ty_m:0.0239329 tz_m:0.501214 dist_m:0.501785 raw_tz_units:2696.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 46.2795 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000145909 ty_m:0.0239501 tz_m:0.501075 dist_m:0.501647 raw_tz_units:2695.52 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.2126 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127734 ty_m:0.0239366 tz_m:0.500944 dist_m:0.501515 raw_tz_units:2694.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.9855 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.41413e-05 ty_m:0.0239381 tz_m:0.500833 dist_m:0.501405 raw_tz_units:2694.22 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.6011 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000146182 ty_m:0.0239587 tz_m:0.501517 dist_m:0.502089 raw_tz_units:2697.9 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.2968 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126533 ty_m:0.0239425 tz_m:0.501207 dist_m:0.501778 raw_tz_units:2696.23 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.2983 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.3885e-05 ty_m:0.0239551 tz_m:0.501303 dist_m:0.501875 raw_tz_units:2696.74 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.2674 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134226 ty_m:0.0239546 tz_m:0.501126 dist_m:0.501699 raw_tz_units:2695.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.3172 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139629 ty_m:0.0239515 tz_m:0.501122 dist_m:0.501694 raw_tz_units:2695.77 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.8298 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137661 ty_m:0.0239389 tz_m:0.500651 dist_m:0.501223 raw_tz_units:2693.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.8947 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000131595 ty_m:0.0239418 tz_m:0.500801 dist_m:0.501373 raw_tz_units:2694.04 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.8139 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000105878 ty_m:0.0239702 tz_m:0.501594 dist_m:0.502167 raw_tz_units:2698.31 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.7814 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139125 ty_m:0.023963 tz_m:0.501181 dist_m:0.501753 raw_tz_units:2696.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.6152 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000121366 ty_m:0.0239479 tz_m:0.500979 dist_m:0.501551 raw_tz_units:2695 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8635 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.98219e-05 ty_m:0.0239534 tz_m:0.500814 dist_m:0.501386 raw_tz_units:2694.11 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.7478 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138246 ty_m:0.0239399 tz_m:0.500541 dist_m:0.501114 raw_tz_units:2692.65 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.1918 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.84767e-05 ty_m:0.023951 tz_m:0.501375 dist_m:0.501947 raw_tz_units:2697.13 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.7047 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129744 ty_m:0.023956 tz_m:0.501627 dist_m:0.502198 raw_tz_units:2698.49 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6808 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000116358 ty_m:0.0239635 tz_m:0.501396 dist_m:0.501968 raw_tz_units:2697.24 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6867 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000110266 ty_m:0.0239425 tz_m:0.500936 dist_m:0.501508 raw_tz_units:2694.77 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.7433 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112696 ty_m:0.0239582 tz_m:0.500967 dist_m:0.50154 raw_tz_units:2694.94 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.5263 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127767 ty_m:0.0239626 tz_m:0.501317 dist_m:0.50189 raw_tz_units:2696.82 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8198 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000124215 ty_m:0.0239422 tz_m:0.501009 dist_m:0.501581 raw_tz_units:2695.16 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9477 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.92849e-05 ty_m:0.023933 tz_m:0.500115 dist_m:0.500688 raw_tz_units:2690.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.5594 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128293 ty_m:0.0239492 tz_m:0.500925 dist_m:0.501497 raw_tz_units:2694.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.9692 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013175 ty_m:0.023945 tz_m:0.500977 dist_m:0.501549 raw_tz_units:2694.99 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.6376 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118167 ty_m:0.0239435 tz_m:0.500887 dist_m:0.501459 raw_tz_units:2694.5 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.8448 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127795 ty_m:0.0239475 tz_m:0.500919 dist_m:0.501492 raw_tz_units:2694.68 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.7824 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122706 ty_m:0.0239549 tz_m:0.500996 dist_m:0.501568 raw_tz_units:2695.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.4272 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132227 ty_m:0.0239545 tz_m:0.500809 dist_m:0.501381 raw_tz_units:2694.09 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8098 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000104323 ty_m:0.0239391 tz_m:0.500484 dist_m:0.501056 raw_tz_units:2692.34 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8984 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122197 ty_m:0.0239547 tz_m:0.501131 dist_m:0.501703 raw_tz_units:2695.82 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.299 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000125476 ty_m:0.0239312 tz_m:0.500464 dist_m:0.501036 raw_tz_units:2692.23 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8599 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000130732 ty_m:0.0239232 tz_m:0.500815 dist_m:0.501386 raw_tz_units:2694.12 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.5238 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138181 ty_m:0.0239453 tz_m:0.500929 dist_m:0.501501 raw_tz_units:2694.73 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.6236 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000110917 ty_m:0.0239234 tz_m:0.500077 dist_m:0.500649 raw_tz_units:2690.15 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.1367 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000137384 ty_m:0.0239369 tz_m:0.501236 dist_m:0.501807 raw_tz_units:2696.38 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.3857 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132657 ty_m:0.0239611 tz_m:0.501241 dist_m:0.501813 raw_tz_units:2696.41 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.2842 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126785 ty_m:0.0239346 tz_m:0.500646 dist_m:0.501218 raw_tz_units:2693.21 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.9541 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00011259 ty_m:0.0239503 tz_m:0.50076 dist_m:0.501333 raw_tz_units:2693.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.8759 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00014231 ty_m:0.0239408 tz_m:0.500872 dist_m:0.501444 raw_tz_units:2694.43 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.6792 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000111434 ty_m:0.0239283 tz_m:0.500385 dist_m:0.500957 raw_tz_units:2691.81 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.2725 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000110822 ty_m:0.0239276 tz_m:0.500528 dist_m:0.5011 raw_tz_units:2692.58 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8125 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000118587 ty_m:0.0239535 tz_m:0.501221 dist_m:0.501793 raw_tz_units:2696.31 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.6598 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000134394 ty_m:0.0239513 tz_m:0.501532 dist_m:0.502104 raw_tz_units:2697.98 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.0552 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000139981 ty_m:0.0239443 tz_m:0.500833 dist_m:0.501406 raw_tz_units:2694.22 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.918 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128619 ty_m:0.023945 tz_m:0.500859 dist_m:0.501431 raw_tz_units:2694.36 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.4368 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128618 ty_m:0.0239727 tz_m:0.501407 dist_m:0.50198 raw_tz_units:2697.3 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.7151 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000104842 ty_m:0.0239162 tz_m:0.500432 dist_m:0.501003 raw_tz_units:2692.06 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.6108 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128893 ty_m:0.0239551 tz_m:0.50121 dist_m:0.501782 raw_tz_units:2696.25 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.3623 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140254 ty_m:0.0239746 tz_m:0.501523 dist_m:0.502096 raw_tz_units:2697.93 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.9437 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000114109 ty_m:0.0239309 tz_m:0.500761 dist_m:0.501333 raw_tz_units:2693.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.4845 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000127066 ty_m:0.0239449 tz_m:0.501115 dist_m:0.501687 raw_tz_units:2695.73 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.6497 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000150363 ty_m:0.0239617 tz_m:0.50122 dist_m:0.501792 raw_tz_units:2696.3 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.4005 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000100237 ty_m:0.0239326 tz_m:0.501128 dist_m:0.501699 raw_tz_units:2695.8 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.1261 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000122223 ty_m:0.0239577 tz_m:0.501403 dist_m:0.501975 raw_tz_units:2697.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.7431 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.41361e-05 ty_m:0.023949 tz_m:0.501017 dist_m:0.501589 raw_tz_units:2695.2 model_height_units:516.429
+Frame:-1/-1 Time detection: 36.7364 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000108157 ty_m:0.0239434 tz_m:0.500925 dist_m:0.501497 raw_tz_units:2694.71 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.0391 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000138511 ty_m:0.0239651 tz_m:0.501463 dist_m:0.502035 raw_tz_units:2697.6 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.2436 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.68947e-05 ty_m:0.0239273 tz_m:0.50042 dist_m:0.500992 raw_tz_units:2692 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.8667 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00013573 ty_m:0.0239582 tz_m:0.500974 dist_m:0.501546 raw_tz_units:2694.97 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.8303 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000101695 ty_m:0.0239367 tz_m:0.501568 dist_m:0.502139 raw_tz_units:2698.17 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.5005 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000119193 ty_m:0.0239492 tz_m:0.501141 dist_m:0.501713 raw_tz_units:2695.88 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.4523 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.00012824 ty_m:0.0239587 tz_m:0.501134 dist_m:0.501706 raw_tz_units:2695.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.6465 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000140696 ty_m:0.0239606 tz_m:0.501518 dist_m:0.50209 raw_tz_units:2697.9 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.518 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000132219 ty_m:0.0239605 tz_m:0.501694 dist_m:0.502266 raw_tz_units:2698.85 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.4338 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.06222e-05 ty_m:0.0239384 tz_m:0.500616 dist_m:0.501188 raw_tz_units:2693.05 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.1388 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000129031 ty_m:0.0239713 tz_m:0.501458 dist_m:0.502031 raw_tz_units:2697.58 model_height_units:516.429
+Frame:-1/-1 Time detection: 37.9827 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000141855 ty_m:0.0239441 tz_m:0.501345 dist_m:0.501917 raw_tz_units:2696.97 model_height_units:516.429
+Frame:-1/-1 Time detection: 39.1937 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.94234e-05 ty_m:0.023934 tz_m:0.500764 dist_m:0.501335 raw_tz_units:2693.84 model_height_units:516.429
+Frame:-1/-1 Time detection: 38.8868 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126335 ty_m:0.0239555 tz_m:0.500806 dist_m:0.501379 raw_tz_units:2694.07 model_height_units:516.429
+Frame:-1/-1 Time detection: 40.3434 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000117471 ty_m:0.0239664 tz_m:0.501092 dist_m:0.501664 raw_tz_units:2695.61 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.3869 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128238 ty_m:0.0239627 tz_m:0.501465 dist_m:0.502037 raw_tz_units:2697.61 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.056 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:9.03787e-05 ty_m:0.0239503 tz_m:0.500735 dist_m:0.501307 raw_tz_units:2693.69 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0282 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000143173 ty_m:0.0239348 tz_m:0.500713 dist_m:0.501285 raw_tz_units:2693.57 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.8872 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000106666 ty_m:0.023955 tz_m:0.500812 dist_m:0.501384 raw_tz_units:2694.1 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.0057 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000151425 ty_m:0.0239676 tz_m:0.501505 dist_m:0.502078 raw_tz_units:2697.83 model_height_units:516.429
+Frame:-1/-1 Time detection: 41.9275 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000128635 ty_m:0.0239686 tz_m:0.501401 dist_m:0.501973 raw_tz_units:2697.27 model_height_units:516.429
+Frame:-1/-1 Time detection: 42.4513 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.00112e-05 ty_m:0.0239453 tz_m:0.50069 dist_m:0.501262 raw_tz_units:2693.45 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.279 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000112404 ty_m:0.0239494 tz_m:0.500668 dist_m:0.50124 raw_tz_units:2693.33 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.3764 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000126307 ty_m:0.0239575 tz_m:0.501032 dist_m:0.501604 raw_tz_units:2695.28 model_height_units:516.429
+Frame:-1/-1 Time detection: 43.4345 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:8.54188e-05 ty_m:0.0239435 tz_m:0.500499 dist_m:0.501071 raw_tz_units:2692.42 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.2247 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000133826 ty_m:0.023969 tz_m:0.501381 dist_m:0.501954 raw_tz_units:2697.17 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.4224 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:0.000120275 ty_m:0.0239603 tz_m:0.501358 dist_m:0.50193 raw_tz_units:2697.04 model_height_units:516.429
+Frame:-1/-1 Time detection: 44.9301 milliseconds nmarkers: 1 image resolution=[640 x 480]
+POSE id:1 tx_m:7.56862e-05 ty_m:0.0239474 tz_m:0.500692 dist_m:0.501265 raw_tz_units:2693.46 model_height_units:516.429
+Frame:-1/-1 Time detection: 45.3318 milliseconds nmarkers: 1 image resolution=[640 x 480]

@@ -1,0 +1,1516 @@
+Diff gray color: 181.667
+convexPolygon: Yes
+Symmetry: No
+Opening camera index 0
+[ WARN:0@0.132] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Internal data stream error.
+[ WARN:0@0.134] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline
+[ WARN:0@0.134] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 15.59 milliseconds nmarkers: 0 image resolution=[640 x 480]
+QSocketNotifier: Can only be used with threads started with QThread
+libEGL warning: failed to get driver name for fd -1
+
+libEGL warning: MESA-LOADER: failed to retrieve device information
+
+libEGL warning: failed to get driver name for fd -1
+
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.018 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.28867 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.695 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.9048 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.32483 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.204 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9991 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2686 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3574 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9112 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0693 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8362 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.1566 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8404 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.596 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.4074 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.1108 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.9079 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.5754 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3132 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3136 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0768 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1565 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9911 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.195 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0866 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9424 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7764 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9155 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7039 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9165 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9318 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8974 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0017 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8987 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6649 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3595 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2022 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0329 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0504 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.93377 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2023 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.46153 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.63743 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8951 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4005 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5793 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1016 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2967 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3394 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2232 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3607 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3764 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4083 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0859 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9877 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9286 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9161 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5722 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4453 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2471 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2211 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.218 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3658 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3876 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1548 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1043 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5558 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6475 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6751 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6252 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3828 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3489 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1656 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.86427 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7585 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.58123 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.07167 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.94523 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.97857 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.95943 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.81247 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.66883 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.58903 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.6997 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.70637 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.91283 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.9885 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.05687 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.23053 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4715 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.68063 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.74627 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.12737 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.16837 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.55333 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.6264 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.12703 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.572 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0456 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2211 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1383 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1268 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.117 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1999 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2516 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2503 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5867 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5074 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5008 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9531 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.953 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1443 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3775 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3514 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4385 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4757 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7989 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.0496 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.3329 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 12.0195 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.784 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7671 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.5711 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8584 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7824 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.6998 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7298 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1863 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6631 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5115 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5024 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.558 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5454 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6988 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5757 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5465 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1947 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4379 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7026 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2311 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3842 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7792 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5197 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6459 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0048 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4283 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1952 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2262 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.065 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.6521 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7535 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8901 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.5601 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2494 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9473 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0233 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9864 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9846 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0278 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9365 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9844 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0752 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2875 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2644 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4595 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7598 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7038 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7801 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4159 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4101 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.5954 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9415 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.0407 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.161 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.467 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1057 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2379 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.125 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8618 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3703 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3314 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.22 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3481 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5787 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5553 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5221 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6102 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6451 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5757 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6229 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6467 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5547 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4083 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2365 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.145 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.88353 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.85097 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.57177 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.7829 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.81147 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.4895 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6145 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1069 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2446 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.557 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5831 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3523 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2686 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2258 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1547 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3712 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4311 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2417 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0956 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0825 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4041 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6434 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6003 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7145 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.77 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.3523 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.4939 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.6229 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.5684 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.5947 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8199 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8089 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8785 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.7469 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8439 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.8254 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9708 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4659 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.933 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.91617 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1294 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3122 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7508 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7684 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8154 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6472 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5387 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6442 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.2338 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 11.1725 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9116 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8659 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.9679 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8522 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7228 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0395 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.9162 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.78767 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.8942 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.89337 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.57477 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.60283 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.5543 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.54687 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.3838 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.34937 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.03513 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.10743 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.2457 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.27973 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7946 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.61593 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.2435 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.2391 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.19013 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.1755 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.13937 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.3102 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.8985 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.94707 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.06517 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.79477 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.95503 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.99067 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.09417 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.15243 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.36353 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.3232 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.38297 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.3031 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.3619 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4013 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.58057 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.55747 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.60787 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.77397 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.8196 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.72347 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7509 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.70827 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.70977 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.849 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.6375 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.71137 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7498 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7597 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.76587 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.6405 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.42147 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.56883 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.46293 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.39333 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.1448 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.1773 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.13433 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.17267 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.9697 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.96663 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.39573 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4752 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.71143 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.69887 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.68463 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7267 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.12303 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.70937 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.7853 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0579 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1678 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3208 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4739 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.446 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5063 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7454 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7657 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7217 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.771 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7929 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.709 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6315 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5249 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.562 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7341 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6865 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7258 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8357 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8175 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8253 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2559 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2353 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0701 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2101 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3049 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2171 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0458 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.35517 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.3323 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.06203 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.8935 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.63847 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.5037 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.44867 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.39543 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.2467 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.42347 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.61507 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.5562 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.47937 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4942 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.36767 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.3235 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.34823 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.10753 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.0537 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.14483 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.00413 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.9438 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.02933 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.08463 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.9929 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.95433 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.067 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7315 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.75807 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.51283 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4747 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.5939 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.97267 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.94337 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.0013 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.0948 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.05837 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.15343 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.03037 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.78657 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.94263 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.07037 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.98013 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.05167 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.08103 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.438 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.5107 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.54137 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.65367 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4809 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.49723 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.65073 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.56053 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.45963 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.50217 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7072 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.53793 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.555 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.75333 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.80473 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.85577 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.69233 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.3632 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.40817 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.67233 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.52763 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.50523 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.48783 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.491 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.55133 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.13557 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.10897 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.08357 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.98427 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.02063 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.74563 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 7.67917 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.08207 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.06467 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.17347 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.4532 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.31673 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.311 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.41663 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.48897 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.63773 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.5417 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.67847 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.47103 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.7681 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.76627 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.72693 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.77197 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.71057 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.53343 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.49493 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.18607 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.498 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.47253 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.59013 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.8093 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4547 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8362 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.7872 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.91 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8967 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.8423 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5831 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5895 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4893 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1748 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3181 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.3154 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.2432 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1332 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.7503 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.7579 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.67237 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.82 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.6515 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.77137 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.0169 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.8876 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.88167 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.96417 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.1367 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.40487 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.0164 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.99953 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.82023 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.72957 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.05173 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.02413 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.07133 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.72443 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 8.9811 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.60787 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.47697 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.62027 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.6617 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.64923 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.58837 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 9.8748 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.286 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4697 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.5011 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.4396 milliseconds nmarkers: 0 image resolution=[640 x 480]
+
+Time in check element value for all contour = -nan milliseconds
+Frame:-1/-1 Time detection: 10.6824 milliseconds nmarkers: 0 image resolution=[640 x 480]
