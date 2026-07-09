@@ -1,95 +1,59 @@
 # Vision-Based Robot Localization using Fiducial Markers and OpenCV
 
-This project implements and benchmarks fiducial marker based vision pipelines for robot localization using OpenCV and Linux camera workflows.
+A computer vision and embedded robotics project for **indoor robot localization** using fiducial markers, OpenCV, calibrated pose estimation, and deployment on an **STM32MP257F-DK** running OpenSTLinux.
 
-A camera detects printed fiducial markers and estimates marker position relative to the camera. The estimated pose or distance can be used for robot localization, alignment, docking, and navigation correction.
+The project starts with a benchmark of multiple marker systems, selects a practical marker pipeline, and moves the selected AprilTag-based localization pipeline onto an embedded Linux board.
 
-This project uses classical computer vision and geometric pose estimation, not deep learning.
+> **One-line summary:**  
+> A low-cost webcam and printed AprilTags are used to estimate real-time 6-DoF pose and generate robot-level localization commands on an embedded ST Linux board.
 
-## Project Goal
+---
 
-The goal is to identify a marker-based vision pipeline that is reliable enough for distance-aware robot localization and practical enough to run on an ST Linux-based embedded board.
+## Current Project Status
 
-The benchmark compares marker systems based on:
+This project now has two completed parts:
 
-- Detection reliability
-- Pose / distance success rate
-- Z-distance accuracy
-- Straight-line distance accuracy
-- Reprojection error where available
-- Z-distance jitter
-- Distance jitter
-- FPS / real-time performance
-- Linux integration practicality
+1. **Benchmarking stage**
+   - Explored 11 fiducial marker systems / variants.
+   - Benchmarked 6 usable marker pipelines.
+   - Compared detection reliability, distance accuracy, jitter, reprojection error, and FPS.
+   - Selected **AprilTag** as the embedded localization candidate.
 
-## Development Environment
+2. **Embedded integration stage**
+   - Ported the selected AprilTag pipeline to **STM32MP257F-DK**.
+   - Verified USB webcam input on OpenSTLinux.
+   - Ran OpenCV AprilTag detection and `solvePnP()` pose estimation on the board.
+   - Added live pose and command overlay.
+   - Added HTTP MJPEG browser streaming.
+   - Added `systemd` auto-start for power-on demo operation.
 
-The project was developed in an Ubuntu Linux virtual machine using Oracle VirtualBox.
+---
+
+## Why This Project?
+
+Indoor robots need a reliable way to know their position and orientation.
+
+GPS works outdoors, but it is weak indoors because satellite signals are blocked, weakened, or reflected by buildings and walls. Other methods such as LiDAR, AI-based localization, IMU, wheel encoders, and odometry are useful, but they can be expensive, compute-heavy, or prone to drift.
+
+This project uses **fiducial marker-based vision localization**:
 
 ```text
-Project directory: ~/cv-project
-Python environment: ~/cv-project/venv
-Camera device: /dev/video0
-Camera backend: V4L2
-IDE/tools: VS Code, nano, Linux terminal
+Printed marker + calibrated camera + OpenCV detection + solvePnP pose estimation
 ```
 
-The webcam is accessed using OpenCV:
+This approach is:
 
-```python
-cap = cv2.VideoCapture(0, cv2.CAP_V4L2)
-```
+- Low-cost
+- Explainable
+- Lightweight compared to LiDAR
+- Useful for controlled indoor environments
+- Suitable for robot alignment, docking, and target approach
 
-The Ubuntu VM was used for camera calibration, marker detection, pose estimation, CSV logging, and plot generation.
+---
 
-## Marker Systems Explored
+## Core Pipeline
 
-This project explored **11 fiducial marker systems and variants** during development.
-
-### Fully Benchmarked
-
-These marker systems were implemented using full pose-estimation pipelines and included in the main comparison:
-
-- ArUco
-- AprilTag
-- STag
-- Chilitags
-
-### Extended Benchmarked
-
-These marker systems were also implemented, but their pipelines differ from the main 4-corner OpenCV `solvePnP()` comparison:
-
-- CCTag
-- JuMarker UCO
-
-### Attempted but Excluded
-
-These marker systems were explored but not included in the final benchmark due to integration issues, unstable detection, marker generation limitations, or unsuitable Linux/Python workflow:
-
-- TopoTag
-- WhyCode / WhyCon
-- RUNEtag
-- ARToolKitX
-- JuMarker Cordoba
-
-## Marker Implementation Summary
-
-| Marker | Status | Implementation | Benchmark type |
-|---|---|---|---|
-| ArUco | Fully benchmarked | OpenCV ArUco dictionary | 4-corner `solvePnP()` 6-DoF pose |
-| AprilTag | Fully benchmarked | OpenCV AprilTag dictionary | 4-corner `solvePnP()` 6-DoF pose |
-| STag | Fully benchmarked | `stag-python` detector | 4-corner `solvePnP()` 6-DoF pose |
-| Chilitags | Fully benchmarked | External C++ detector exposed through Python wrapper | 4-corner `solvePnP()` 6-DoF pose |
-| CCTag | Extended benchmarked | External C++ detector parsed through Python wrapper | Distance estimate from detected ellipse diameter |
-| JuMarker UCO | Extended benchmarked | External C++ detector parsed through Python wrapper | Pose values produced by JuMarker C++ detector |
-
-ArUco, AprilTag, STag, and Chilitags form the main full-pose benchmark because they provide marker corners that can be passed into the same `solvePnP()`-based pose-estimation pipeline.
-
-CCTag is treated as a distance-only benchmark because the current implementation estimates distance from the detected ellipse diameter. JuMarker UCO uses pose values produced by its C++ detector and parsed through a Python wrapper.
-
-## Pose Estimation Pipeline
-
-For ArUco, AprilTag, STag, and Chilitags:
+For full-pose markers such as ArUco, AprilTag, STag, and Chilitags:
 
 ```text
 Camera frame
@@ -98,101 +62,363 @@ Camera frame
 → Camera calibration + marker size
 → solvePnP()
 → rvec / tvec
-→ distance, reprojection, jitter, FPS metrics
+→ distance, pose, yaw, jitter, FPS
 ```
 
-For CCTag:
+For the embedded demo:
 
 ```text
-Camera frame
-→ CCTag detection
-→ center + ellipse estimation
-→ apparent diameter in pixels
-→ distance estimate using calibrated focal length
-→ distance error, jitter, FPS metrics
+USB webcam
+→ STM32MP257F-DK
+→ OpenCV AprilTag detection
+→ solvePnP pose estimation
+→ CamX / CamZ / Distance / Yaw / FPS
+→ command generation
+→ HTTP MJPEG stream
+→ phone/laptop browser
 ```
 
-For JuMarker UCO:
+---
+
+## Marker Systems Explored
+
+The project explored **11 marker systems / variants**.
+
+### Fully Benchmarked
+
+These were implemented as full pose-estimation pipelines:
+
+- ArUco
+- AprilTag
+- STag
+- Chilitags
+
+### Extended Benchmarked
+
+These were benchmarked with different detector/output styles:
+
+- CCTag
+- JuMarker UCO
+
+### Attempted but Excluded
+
+These were explored but excluded from final plots due to integration limitations, unstable detection, marker generation issues, or unsuitable Linux/Python workflow:
+
+- TopoTag
+- WhyCode / WhyCon
+- RUNEtag
+- ARToolKitX
+- JuMarker Cordoba
+
+---
+
+## Marker Implementation Summary
+
+| Marker | Status | Implementation | Benchmark Type |
+|---|---|---|---|
+| ArUco | Fully benchmarked | OpenCV ArUco dictionary | 4-corner `solvePnP()` 6-DoF pose |
+| AprilTag | Fully benchmarked + embedded candidate | OpenCV AprilTag dictionary | 4-corner `solvePnP()` 6-DoF pose |
+| STag | Fully benchmarked | `stag-python` detector | 4-corner `solvePnP()` 6-DoF pose |
+| Chilitags | Fully benchmarked | External C++ detector + Python wrapper | 4-corner `solvePnP()` 6-DoF pose |
+| CCTag | Extended benchmarked | External C++ detector | Distance estimate from detected ellipse diameter |
+| JuMarker UCO | Extended benchmarked | External C++ detector output parsed in Python | Pose values from JuMarker C++ detector |
+
+---
+
+## Benchmark Methodology
+
+Each accepted benchmark run used:
+
+- Same webcam
+- Same camera calibration
+- Same approximate indoor lighting
+- Same printed marker size for the square-marker comparisons
+- 0-degree front-facing marker alignment
+- 500 frames per test
+- Test distances from **0.5 m to 2.5 m**
+
+Measured metrics included:
+
+- Detection rate
+- Pose / distance success rate
+- Mean Z-distance error
+- Straight-line distance error
+- Z-distance jitter
+- Distance jitter
+- Reprojection error where available
+- FPS / processing time
+
+CSV logs were validated before plotting to remove wrong ground-truth distance labels, invalid runs, and duplicate runs.
+
+---
+
+## Calibration
+
+The main calibration file is:
 
 ```text
-Camera frame
-→ JuMarker UCO detection
-→ C++ pose estimation
-→ pose values parsed in Python
-→ distance error, jitter, FPS metrics
+calibration/calibration_data.npz
 ```
 
-## Calibration and Marker Size
-
-All marker systems use the same camera calibration file:
+It contains:
 
 ```text
-calibration_data.npz
+mtx  = camera matrix
+dist = distortion coefficients
 ```
 
-The camera calibration resolution and capture resolution must match. Using a different capture resolution from the calibration resolution can cause incorrect distance estimation.
+The calibration file is required because `solvePnP()` needs camera geometry to convert detected 2D image corners into real-world pose values.
 
-Main square marker size used for ArUco, AprilTag, STag, and Chilitags:
+Main printed square marker size used:
 
 ```text
 0.097 m
 ```
 
-CCTag and JuMarker UCO use their measured printed marker size:
+CCTag and JuMarker UCO used their measured printed size:
 
 ```text
 0.096 m
 ```
 
-Marker size must match the physically printed marker used during testing.
+> The camera capture resolution should match the calibration resolution. Changing resolution after calibration can affect distance accuracy.
 
-## Benchmark Methodology
+---
 
-Each accepted run uses:
+## Embedded Demo
 
-- Same webcam
-- Same calibration file
-- Same indoor setup
-- Same approximate lighting
-- 0-degree front-facing marker alignment
-- 500 frames per test
-- Test distances: 0.5 m, 1.0 m, 1.5 m, 2.0 m, 2.5 m
+The embedded demo runs on:
 
-CSV files were checked before plotting to avoid incorrect ground-truth distance labels, invalid runs, and duplicate repeated tests.
+```text
+Board: STM32MP257F-DK
+OS: OpenSTLinux
+Camera: Logitech C270 USB webcam
+Marker: AprilTag 16h5 ID 0
+Runtime: Python 3 + OpenCV
+Auto-start: systemd
+Stream: HTTP MJPEG on port 8081
+```
+
+### Embedded Demo Flow
+
+```text
+Power bank / board power
+→ STM32MP257F-DK boots OpenSTLinux
+→ systemd starts vision-stream.service
+→ preview_pose_stream.py starts automatically
+→ USB webcam captures frames
+→ AprilTag is detected
+→ solvePnP estimates pose
+→ pose and command values are overlaid
+→ browser opens the live stream
+```
+
+Example stream URL:
+
+```text
+http://<BOARD_IP>:8081
+```
+
+Example used during testing:
+
+```text
+http://10.133.71.10:8081
+```
+
+### Embedded Demo Output
+
+The stream overlays:
+
+- AprilTag detection status
+- Marker ID
+- CamX
+- CamZ
+- Distance
+- Yaw
+- FPS
+- Command output
+
+### Command Logic
+
+The embedded script uses simple threshold-based decisions:
+
+```text
+No marker detected
+→ SEARCH
+
+Distance <= 0.35 m
+→ STOP
+
+CamX > +0.04 m
+→ TURN_LEFT
+
+CamX < -0.04 m
+→ TURN_RIGHT
+
+Yaw < -10°
+→ ROTATE_LEFT
+
+Yaw > +10°
+→ ROTATE_RIGHT
+
+Otherwise
+→ FORWARD
+```
+
+Thresholds:
+
+```python
+STOP_DISTANCE_M = 0.35
+CENTER_TOLERANCE_M = 0.04
+YAW_TOLERANCE_DEG = 10.0
+```
+
+These thresholds act as deadbands so small pose noise does not constantly change the command output.
+
+---
+
+## Repository Structure
+
+```text
+.
+├── README.md
+├── requirements.txt
+├── requirements_current_backup.txt
+├── .gitignore
+│
+├── benchmark/
+│   ├── full_pose/
+│   │   ├── aruco_pose.py
+│   │   ├── aruco_pose_metrics.py
+│   │   ├── apriltag_pose.py
+│   │   ├── apriltag_pose_metrics.py
+│   │   ├── stag_pose.py
+│   │   ├── stag_pose_metrics.py
+│   │   ├── chilitags_pose_live_py.py
+│   │   └── chilitags_pose_metrics.py
+│   │
+│   ├── extended/
+│   │   ├── cctag_distance_live.py
+│   │   ├── cctag_distance_metrics.py
+│   │   ├── jumarker_uco_live_pose.py
+│   │   └── jumarker_uco_metrics.py
+│   │
+│   └── plotting/
+│       ├── plot_results.py
+│       └── plot_apriltag_datadensity_effect.py
+│
+├── calibration/
+│   ├── calibration_data.npz
+│   ├── calibration_data_backup.npz
+│   ├── calibration_chilitags.yml
+│   └── calibration_chilitags_backup.yml
+│
+├── markers/
+│   ├── aruco_marker_0.png
+│   ├── apriltag_16h5_id0.png
+│   ├── apriltag_36h11_id0.png
+│   ├── stag_hd21_id00_cropped.png
+│   └── chilitag_markers/
+│
+├── results/
+│   ├── metrics_results/
+│   ├── plots/
+│   ├── apriltag_datadensities/
+│   └── plots_apriltag_datadensity_effect/
+│
+├── tools/
+│   ├── generate_apriltag.py
+│   ├── generate_arucomarker.py
+│   ├── detect_all_tags.py
+│   ├── camera_alignment_lines.py
+│   ├── camera_test_index_0.jpg
+│   └── dof.py
+│
+├── embedded_demo/
+│   └── stm32mp257f_dk/
+│       ├── preview_pose_stream.py
+│       ├── calibration_data.npz
+│       ├── README.md
+│       └── systemd/
+│           └── vision-stream.service
+│
+├── external_libs/
+│   ├── external/
+│   └── stag-python/
+│
+├── native_builds/
+│   ├── chilitags_pose_live
+│   ├── chilitags_pose_live.cpp
+│   ├── chilitags_py.cpp
+│   └── chilitags_py.cpython-314-x86_64-linux-gnu.so
+│
+└── archive/
+    ├── main.py
+    └── apriltag_robot_localization.zip
+```
+
+---
 
 ## Main Scripts
 
+### Full-Pose Benchmark Scripts
+
 | File | Purpose |
 |---|---|
-| `aruco_pose.py` | Live ArUco pose estimation |
-| `apriltag_pose.py` | Live AprilTag pose estimation |
-| `stag_pose.py` | Live STag pose estimation |
-| `chilitags_pose_live_py.py` | Live Chilitags pose estimation |
-| `cctag_distance_live.py` | Live CCTag distance estimation |
-| `jumarker_uco_live_pose.py` | Live JuMarker UCO pose display |
-| `aruco_pose_metrics.py` | ArUco benchmark metrics |
-| `apriltag_pose_metrics.py` | AprilTag benchmark metrics |
-| `stag_pose_metrics.py` | STag benchmark metrics |
-| `chilitags_pose_metrics.py` | Chilitags benchmark metrics |
-| `cctag_distance_metrics.py` | CCTag distance benchmark metrics |
-| `jumarker_uco_metrics.py` | JuMarker UCO benchmark metrics |
-| `chilitags_py.cpp` | Minimal Python wrapper for Chilitags detection |
-| `camera_alignment_lines.py` | Camera alignment helper |
-| `plot_results.py` | Generates main comparison plots |
-| `plot_apriltag_datadensity_effect.py` | Generates AprilTag data-density plots |
+| `benchmark/full_pose/aruco_pose.py` | Live ArUco pose estimation |
+| `benchmark/full_pose/apriltag_pose.py` | Live AprilTag pose estimation |
+| `benchmark/full_pose/stag_pose.py` | Live STag pose estimation |
+| `benchmark/full_pose/chilitags_pose_live_py.py` | Live Chilitags pose estimation |
+| `benchmark/full_pose/aruco_pose_metrics.py` | ArUco benchmark metrics |
+| `benchmark/full_pose/apriltag_pose_metrics.py` | AprilTag benchmark metrics |
+| `benchmark/full_pose/stag_pose_metrics.py` | STag benchmark metrics |
+| `benchmark/full_pose/chilitags_pose_metrics.py` | Chilitags benchmark metrics |
+
+### Extended Benchmark Scripts
+
+| File | Purpose |
+|---|---|
+| `benchmark/extended/cctag_distance_live.py` | Live CCTag distance estimation |
+| `benchmark/extended/cctag_distance_metrics.py` | CCTag distance benchmark metrics |
+| `benchmark/extended/jumarker_uco_live_pose.py` | Live JuMarker UCO pose display |
+| `benchmark/extended/jumarker_uco_metrics.py` | JuMarker UCO benchmark metrics |
+
+### Plotting Scripts
+
+| File | Purpose |
+|---|---|
+| `benchmark/plotting/plot_results.py` | Generates main comparison plots |
+| `benchmark/plotting/plot_apriltag_datadensity_effect.py` | Generates AprilTag data-density plots |
+
+### Embedded Demo Scripts
+
+| File | Purpose |
+|---|---|
+| `embedded_demo/stm32mp257f_dk/preview_pose_stream.py` | Final embedded browser-stream demo |
+| `embedded_demo/stm32mp257f_dk/systemd/vision-stream.service` | systemd auto-start service |
+| `embedded_demo/stm32mp257f_dk/calibration_data.npz` | Calibration file used by embedded demo |
+
+---
 
 ## Results
 
 Benchmark CSV files are stored in:
 
 ```text
-metrics_results/
+results/metrics_results/
 ```
 
-Generated plots are stored in:
+Generated comparison plots are stored in:
 
 ```text
-plots/
+results/plots/
+```
+
+AprilTag data-density study outputs are stored in:
+
+```text
+results/apriltag_datadensities/
+results/plots_apriltag_datadensity_effect/
 ```
 
 The generated plots compare marker performance across distance for:
@@ -206,90 +432,138 @@ The generated plots compare marker performance across distance for:
 - Distance jitter
 - FPS
 
-The current benchmark includes:
+CCTag and JuMarker UCO do not currently report OpenCV-style reprojection error in the Python benchmark wrappers, so they may be absent from the reprojection-error plot while still being included in distance error, jitter, detection, and FPS plots.
 
-```text
-ArUco
-AprilTag
-STag
-Chilitags
-CCTag
-JuMarker UCO
-```
-
-CCTag and JuMarker UCO do not currently report OpenCV-style reprojection error in the Python benchmark wrappers, so they may be absent from the reprojection error plot while still being included in distance error, jitter, detection, and FPS plots.
+---
 
 ## AprilTag Data-Density Study
 
-The repository also contains AprilTag 16h5 and 36h11 material to observe how marker data density affects pose estimation when the physical marker size is fixed.
+The repository contains AprilTag 16h5 and 36h11 material to observe how marker data density affects pose estimation when physical marker size is fixed.
 
-Relevant folders:
+This study was useful because marker internal data density can affect long-range corner detection and pose accuracy.
 
-```text
-apriltag_datadensities/
-plots_apriltag_datadensity_effect/
-```
+---
 
-## Repository Structure
+## Running the Embedded Demo on STM32MP257F-DK
 
-```text
-.
-├── aruco_pose.py
-├── apriltag_pose.py
-├── stag_pose.py
-├── chilitags_pose_live_py.py
-├── cctag_distance_live.py
-├── jumarker_uco_live_pose.py
-├── aruco_pose_metrics.py
-├── apriltag_pose_metrics.py
-├── stag_pose_metrics.py
-├── chilitags_pose_metrics.py
-├── cctag_distance_metrics.py
-├── jumarker_uco_metrics.py
-├── chilitags_py.cpp
-├── camera_alignment_lines.py
-├── calibration_data.npz
-├── chilitag_markers/
-├── metrics_results/
-├── plots/
-├── apriltag_datadensities/
-├── plots_apriltag_datadensity_effect/
-├── plot_results.py
-├── plot_apriltag_datadensity_effect.py
-└── requirements.txt
-```
-
-Local folders such as `venv/`, `external/`, compiled binaries, `.so` files, and local backup/debug files are ignored and should be rebuilt locally if needed.
-
-## External Detector Notes
-
-CCTag, Chilitags, and JuMarker require external C++ components. These are not committed as full third-party source trees inside this repository.
-
-### CCTag
-
-CCTag was built locally as a CPU-only detector. The detector output was used to expose values needed for benchmarking:
+Copy the embedded demo files to the board:
 
 ```text
-center x/y
-marker id
-status
-ellipse axes
-ellipse angle
-apparent diameter in pixels
+/home/root/vision_localization/
 ```
 
-The Python wrapper estimates distance using:
+Expected board-side folder:
 
 ```text
-Z = fx × real_marker_diameter / apparent_diameter_px
+/home/root/vision_localization/
+├── preview_pose_stream.py
+└── calibration_data.npz
 ```
 
-### JuMarker UCO
+Install the service file at:
 
-JuMarker was built locally and tested using the UCO marker design. The C++ detector output is parsed by the Python wrapper to save benchmark CSV files.
+```text
+/etc/systemd/system/vision-stream.service
+```
 
-JuMarker Cordoba was attempted but excluded because detection was not reliable enough for the final benchmark.
+Reload and enable:
 
-## Current Next Step
+```bash
+systemctl daemon-reload
+systemctl enable vision-stream.service
+systemctl start --no-block vision-stream.service
+```
 
-The benchmark stage is complete for now. The next step is implementation on an ST Linux-based embedded board, followed by testing on a small robot.
+Check status:
+
+```bash
+systemctl status vision-stream.service --no-pager
+```
+
+Open the stream:
+
+```text
+http://<BOARD_IP>:8081
+```
+
+Useful service commands:
+
+```bash
+systemctl start --no-block vision-stream.service
+systemctl stop vision-stream.service
+systemctl restart vision-stream.service
+systemctl status vision-stream.service --no-pager
+journalctl -u vision-stream.service --no-pager -n 80
+```
+
+---
+
+## Why Embedded Linux / MPU?
+
+The embedded demo uses an MPU board instead of only an MCU because the vision pipeline needs:
+
+- USB webcam support
+- OpenCV
+- Python/C++ runtime
+- File loading
+- Networking
+- HTTP streaming
+- Linux debugging tools
+
+An MCU is better suited for low-level motor control, PWM, and real-time sensor reading.
+
+Intended architecture:
+
+```text
+MPU / STM32MP257F-DK = vision + localization
+MCU / motor board    = motor control
+```
+
+---
+
+## Applications
+
+Marker-based localization is useful in controlled indoor robotics environments such as:
+
+- Warehouse robots
+- Indoor delivery robots
+- AGV alignment points
+- Robot docking stations
+- Charging station alignment
+- Lab automation robots
+- Factory workcells
+- Robot arm / camera calibration zones
+
+It is especially useful when a robot must approach a known target, align accurately, dock with a station, or localize inside a controlled indoor area.
+
+---
+
+## Limitations
+
+This system has practical limitations:
+
+- Marker must be visible to the camera
+- Lighting should be reasonable
+- Marker must be placed in the environment
+- Pose accuracy depends on calibration quality
+- Marker size must match the physical printed size
+- Long-distance accuracy depends on marker visibility and corner detection quality
+
+This is not a universal replacement for LiDAR or SLAM. However, for controlled indoor localization, docking, target approach, and alignment, it is a practical low-cost solution.
+
+---
+
+## Next Direction
+
+The current system proves:
+
+```text
+benchmarking
+→ marker selection
+→ embedded AprilTag pose estimation
+→ automatic board startup
+→ HTTP-based live visualization
+→ command-generation logic
+```
+
+The natural continuation is connecting the generated command output to a motor controller so the localization pipeline can be used directly for robot alignment and movement.

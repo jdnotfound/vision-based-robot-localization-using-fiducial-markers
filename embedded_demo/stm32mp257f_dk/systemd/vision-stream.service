@@ -1,0 +1,16 @@
+[Unit]
+Description=AprilTag Pose Preview Stream
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/root/vision_localization
+ExecStartPre=/bin/sleep 45
+ExecStart=/usr/bin/python3 /home/root/vision_localization/preview_pose_stream.py
+Restart=always
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
