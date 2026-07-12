@@ -3,7 +3,11 @@ import time
 import numpy as np
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-CAMERA_INDEX = 7
+
+
+# Configuration
+
+
 WIDTH = 640
 HEIGHT = 480
 PORT = 8081
@@ -15,9 +19,28 @@ STOP_DISTANCE_M = 0.35
 CENTER_TOLERANCE_M = 0.04
 YAW_TOLERANCE_DEG = 10.0
 
+CAMERA_NAME_KEYWORDS = [
+    "Lenovo",
+    "FHD",
+    "Webcam",
+    "USB",
+    "UVC",
+    "Camera"
+]
+
+
+
+# Load camera calibration
+
+
 data = np.load(CALIBRATION_FILE)
 cam_matrix = data["mtx"]
 dist_coeffs = data["dist"]
+
+
+
+# Marker 3D corner model
+
 
 s = MARKER_SIZE_METERS / 2
 
@@ -28,24 +51,103 @@ marker_3d_points = np.array([
     [-s, -s, 0]
 ], dtype=np.float32)
 
+
+
+# AprilTag detector
+
+
 aruco_dict = cv2.aruco.getPredefinedDictionary(cv2.aruco.DICT_APRILTAG_16h5)
 params = cv2.aruco.DetectorParameters()
 detector = cv2.aruco.ArucoDetector(aruco_dict, params)
 
-cap = cv2.VideoCapture(CAMERA_INDEX, cv2.CAP_V4L2)
-cap.set(cv2.CAP_PROP_FRAME_WIDTH, WIDTH)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT, HEIGHT)
-cap.set(cv2.CAP_PROP_FOURCC, cv2.VideoWriter_fourcc(*"MJPG"))
+
+
+# Camera auto-detection
+
+
+def get_video_name(index):
+    name_path = f"/sys/class/video4linux/video{index}/name"
+
+    try:
+        with open(name_path, "r") as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        return ""
+
+
+def is_possible_usb_camera(name):
+    if not name:
+        return False
+
+    lower_name = name.lower()
+
+    # Skip STM internal camera/codec nodes
+    skip_words = ["stm32_dcmipp", "vdec", "venc"]
+
+    if any(word in lower_name for word in skip_words):
+        return False
+
+    return any(keyword.lower() in lower_name for keyword in CAMERA_NAME_KEYWORDS)
+
+
+def open_camera():
+    for attempt in range(10):
+        print(f"Camera search attempt {attempt + 1}/10")
+
+        for index in range(0, 20):
+            name = get_video_name(index)
+
+            if not is_possible_usb_camera(name):
+                continue
+
+            print(f"Trying /dev/video{index}: {name}")
+
+            cap = cv2.VideoCapture(index, cv2.CAP_V4L2)
+
+            cap.set(cv2.CAP_PROP_FOURCC, cv2.VideoWriter_fourcc(*"MJPG"))
+            cap.set(cv2.CAP_PROP_FRAME_WIDTH, WIDTH)
+            cap.set(cv2.CAP_PROP_FRAME_HEIGHT, HEIGHT)
+            cap.set(cv2.CAP_PROP_FPS, 30)
+
+            time.sleep(0.5)
+
+            ret, frame = cap.read()
+
+            if cap.isOpened() and ret:
+                print(f"Camera opened: /dev/video{index}")
+                print("Actual width:", cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+                print("Actual height:", cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+                print("Actual FPS:", cap.get(cv2.CAP_PROP_FPS))
+                print("Frame shape:", frame.shape)
+                return cap
+
+            print(f"Failed /dev/video{index}")
+            cap.release()
+
+        print("No usable camera found yet. Retrying...")
+        time.sleep(2)
+
+    return None
+
+
+cap = open_camera()
+
+
+
+# Pose helper functions
+
 
 def get_yaw_deg(rvec):
     R, _ = cv2.Rodrigues(rvec)
     yaw = np.degrees(np.arctan2(R[1, 0], R[0, 0]))
     return yaw
 
+
 def get_camera_position(rvec, tvec):
     R, _ = cv2.Rodrigues(rvec)
     camera_pos = -R.T @ tvec
     return camera_pos
+
 
 def decide_command(cam_x, distance, yaw_deg):
     if distance <= STOP_DISTANCE_M:
@@ -65,6 +167,7 @@ def decide_command(cam_x, distance, yaw_deg):
 
     return "FORWARD"
 
+
 def put(frame, text, y, color=(255, 255, 255)):
     cv2.putText(
         frame,
@@ -76,8 +179,15 @@ def put(frame, text, y, color=(255, 255, 255)):
         2
     )
 
+
+
+# HTTP stream handler
+
+
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
+        global cap
+
         if self.path == "/":
             self.send_response(200)
             self.send_header("Content-type", "text/html")
@@ -97,7 +207,7 @@ class Handler(BaseHTTPRequestHandler):
                     img {
                         border: 3px solid #444;
                         width: 90%;
-                        max-width: 800px;
+                        max-width: 900px;
                     }
                 </style>
             </head>
@@ -126,9 +236,19 @@ class Handler(BaseHTTPRequestHandler):
             fps = 0.0
 
             while True:
+                if cap is None or not cap.isOpened():
+                    print("Camera lost. Trying to reopen...")
+                    cap = open_camera()
+
+                    if cap is None:
+                        time.sleep(1)
+                        continue
+
                 ret, frame = cap.read()
 
                 if not ret:
+                    print("Frame read failed")
+                    time.sleep(0.1)
                     continue
 
                 now = time.time()
@@ -198,14 +318,24 @@ class Handler(BaseHTTPRequestHandler):
 
                     time.sleep(0.03)
 
-                except (BrokenPipeError, ConnectionResetError):
+                except BrokenPipeError:
+                    break
+
+                except ConnectionResetError:
                     break
 
         else:
             self.send_error(404)
 
+
+
+# Main
+
+
 def main():
-    if not cap.isOpened():
+    global cap
+
+    if cap is None or not cap.isOpened():
         print("ERROR: Camera not opened")
         return
 
@@ -223,9 +353,12 @@ def main():
         print("\nStopping...")
 
     finally:
-        cap.release()
+        if cap is not None:
+            cap.release()
+
         server.server_close()
         print("Stopped")
+
 
 if __name__ == "__main__":
     main()

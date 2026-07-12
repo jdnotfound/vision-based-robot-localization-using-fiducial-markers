@@ -128,7 +128,7 @@ while True:
                 R_cam[2, 2]
             )
 
-            yaw_deg = np.degrees(yaw_rad) + 180
+            yaw_deg = np.degrees(yaw_rad)
 
             if yaw_deg > 180:
                 yaw_deg -= 360
